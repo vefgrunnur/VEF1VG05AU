@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+
+<!-- ...existing code... -->
+<form id="quiz-form">
+  <div class="question">
+    <label>1. What does HTML stand for?</label><br>
+    <input type="radio" name="q1" value="a"> Hyper Text Markup Language<br>
+    <input type="radio" name="q1" value="b"> Home Tool Markup Language<br>
+    <input type="radio" name="q1" value="c"> Hyperlinks and Text Markup Language<br>
+  </div>
+  <div class="question">
+    <label>2. Which tag is used to create a hyperlink?</label><br>
+    <input type="radio" name="q2" value="a"> &lt;link&gt;<br>
+    <input type="radio" name="q2" value="b"> &lt;a&gt;<br>
+    <input type="radio" name="q2" value="c"> &lt;href&gt;<br>
+  </div>
+  <div class="question">
+    <label>3. Which tag is used to display an image?</label><br>
+    <input type="radio" name="q3" value="a"> &lt;img&gt;<br>
+    <input type="radio" name="q3" value="b"> &lt;picture&gt;<br>
+    <input type="radio" name="q3" value="c"> &lt;image&gt;<br>
+  </div>
+  <div class="question">
+    <label>4. What is the correct HTML element for the largest heading?</label><br>
+    <input type="radio" name="q4" value="a"> &lt;heading&gt;<br>
+    <input type="radio" name="q4" value="b"> &lt;h6&gt;<br>
+    <input type="radio" name="q4" value="c"> &lt;h1&gt;<br>
+  </div>
+  <div class="question">
+    <label>5. Which tag is used to create a line break?</label><br>
+    <input type="radio" name="q5" value="a"> &lt;br&gt;<br>
+    <input type="radio" name="q5" value="b"> &lt;lb&gt;<br>
+    <input type="radio" name="q5" value="c"> &lt;break&gt;<br>
+  </div>
+  <div class="question">
+    <label>6. What is the correct HTML for adding a background color?</label><br>
+    <input type="radio" name="q6" value="a"> &lt;body bg="yellow"&gt;<br>
+    <input type="radio" name="q6" value="b"> &lt;body style="background-color:yellow;"&gt;<br>
+    <input type="radio" name="q6" value="c"> &lt;background&gt;yellow&lt;/background&gt;<br>
+  </div>
+  <div class="question">
+    <label>7. Which tag is used to make text bold?</label><br>
+    <input type="radio" name="q7" value="a"> &lt;strong&gt;<br>
+    <input type="radio" name="q7" value="b"> &lt;bold&gt;<br>
+    <input type="radio" name="q7" value="c"> &lt;bld&gt;<br>
+  </div>
+  <div class="question">
+    <label>8. Which tag is used for creating an unordered list?</label><br>
+    <input type="radio" name="q8" value="a"> &lt;ol&gt;<br>
+    <input type="radio" name="q8" value="b"> &lt;ul&gt;<br>
+    <input type="radio" name="q8" value="c"> &lt;li&gt;<br>
+  </div>
+  <div class="question">
+    <label>9. What is the correct HTML for inserting a comment?</label><br>
+    <input type="radio" name="q9" value="a"> &lt;!-- This is a comment --&gt;<br>
+    <input type="radio" name="q9" value="b"> // This is a comment<br>
+    <input type="radio" name="q9" value="c"> # This is a comment<br>
+  </div>
+  <div class="question">
+    <label>10. Which attribute is used to provide alternative text for an image?</label><br>
+    <input type="radio" name="q10" value="a"> title<br>
+    <input type="radio" name="q10" value="b"> alt<br>
+    <input type="radio" name="q10" value="c"> description<br>
+  </div>
+  <button type="button" onclick="checkAnswers()">Submit</button>
+</form>
+<div id="feedback"></div>
+<table id="score-table" style="display:none;">
+  <tr>
+    <th>Total Questions</th>
+    <th>Correct Answers</th>
+  </tr>
+  <tr>
+    <td id="total"></td>
+    <td id="correct"></td>
+  </tr>
+</table>
+<script>
+  function checkAnswers() {
+    const answers = {
+      q1: { correct: 'a', text: 'Hyper Text Markup Language' },
+      q2: { correct: 'b', text: '&lt;a&gt;' },
+      q3: { correct: 'a', text: '&lt;img&gt;' },
+      q4: { correct: 'c', text: '&lt;h1&gt;' },
+      q5: { correct: 'a', text: '&lt;br&gt;' },
+      q6: { correct: 'b', text: '&lt;body style="background-color:yellow;"&gt;' },
+      q7: { correct: 'a', text: '&lt;strong&gt;' },
+      q8: { correct: 'b', text: '&lt;ul&gt;' },
+      q9: { correct: 'a', text: '&lt;!-- This is a comment --&gt;' },
+      q10: { correct: 'b', text: 'alt' }
+    };
+    let correct = 0;
+    let total = Object.keys(answers).length;
+    let feedbackHTML = '<ul style="padding-left:20px;">';
+    for (let i = 1; i <= total; i++) {
+      const q = 'q' + i;
+      const radios = document.getElementsByName(q);
+      let userAnswer = null;
+      for (let radio of radios) {
+        if (radio.checked) {
+          userAnswer = radio.value;
+        }
+      }
+      if (userAnswer === answers[q].correct) {
+        correct++;
+      } else {
+        feedbackHTML += `<li>Question ${i}: Correct answer is <strong>${answers[q].text}</strong></li>`;
+      }
+    }
+    feedbackHTML += '</ul>';
+    document.getElementById('total').textContent = total;
+    document.getElementById('correct').textContent = correct;
+    document.getElementById('score-table').style.display = 'table';
+    document.getElementById('feedback').innerHTML = (correct === total) ? 
+      '<p style="color:green;">All answers are correct! 🎉</p>' : 
+      `<p style="color:#d32f2f;">Review the correct answers below:</p>${feedbackHTML}`;
+  }
+</script>
+<!-- ...existing code... -->
+
+    
+</body>
+</html>

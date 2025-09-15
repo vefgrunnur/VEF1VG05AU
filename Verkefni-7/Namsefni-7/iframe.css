@@ -1,0 +1,69 @@
+/* Rétt hlutfall youtube > iframe  (.gluggi) 
+
+   óskuð breidd deilt í upphaflega breidd = n% 
+
+   til að finna rétta hæð : n%  * upphafleg hæð 
+*/
+
+/* 20em = 320px*/
+.gluggi {
+    width:100%;
+    height:10.5rem; /*168px;*/ 
+    margin: auto;
+  }
+
+@media screen and (min-width: 25rem) {
+    .gluggi {
+      height:13rem; /*207px;*/ 
+    }
+ }
+
+@media screen and (min-width: 30rem) {
+    .gluggi { 
+     height:15.75rem; /*252px;*/ 
+   }
+ }
+
+@media screen and (min-width: 37.5rem) {
+    .gluggi {
+      height:19.7rem; /*315px;*/
+    }
+ }
+
+ @media screen and (min-width:48rem){
+  .gluggi {
+    height:24.6rem; /*414px;*/ 
+  }
+}
+@media screen and (min-width:60rem){
+  .gluggi {
+    height:33rem; /*534px;*/ 
+  }
+}
+@media screen and (min-width: 80rem) {
+    .gluggi {  
+      height:44em; /*~702px;*/ 
+    }
+  } 
+
+
+/* google kort */
+
+@media screen and (min-width: 20rem) {
+    .kort {
+     width:100%;    
+     height:15.75rem; /*252px;*/ 
+   }
+ }
+
+@media screen and (min-width: 37.5rem) {
+    .kort {
+      height:19.7rem; /*315px; */
+    }
+ }
+
+ @media screen and (min-width:48rem){
+  .kort {
+    height:28.2rem; /*451,2px;*/ 
+  }
+}
