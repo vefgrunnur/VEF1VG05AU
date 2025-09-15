@@ -1,7 +1,5 @@
 # Verkefni VEFÞ1VG05A
 
-* [Tímaverkefni 2](https://github.com/vefgrunnur/Timaverkefni-2)
-
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
 1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
