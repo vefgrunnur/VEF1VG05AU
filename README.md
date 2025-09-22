@@ -14,15 +14,15 @@
 
 | Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
 |---|---|---|---|---|
-| 34 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
-| 35 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 10 |
-| 36 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 10 | - |
-| 37 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
-| 38 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
-| 39 | Myndvinnsla | 6 | 5 | 10 |
-| 40 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
-| 41 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | - | 20 |
-| 42 | _Námsmat_ | Samtals | 45 | 55 |
+| 42 - 43 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
+| 44 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 10 |
+| 45 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 10 | - |
+| 46 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
+| 47 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
+| 48 | Myndvinnsla | 6 | 5 | 10 |
+| 49 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
+| 50 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | - | 20 |
+| 51 | _Námsmat_ | Samtals | 45 | 55 |
 
 ---
 
@@ -30,14 +30,14 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 34 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 35 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
-| 36 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
-| 37 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
-| 38 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
-| 39 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
-| 40 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
-| 41 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Verkefnaskil 12.10. <br> Kl. 23:59 (deadline)_ |
+| 42-43 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 44 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
+| 45 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
+| 46 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
+| 47 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
+| 48 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
+| 49 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
+| 50 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Verkefnaskil 12.12. <br> Kl. 23:59 (deadline)_ |
  
 ### Námsmat
 
