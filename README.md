@@ -59,6 +59,6 @@
 
 ---
 
-#### [Bjargir: VEFÞ1VG05A/wiki]((https://github.com/vefgrunnur/VEF1VG05A/wiki)
+#### [Bjargir: VEFÞ1VG05A/wiki](https://github.com/vefgrunnur/VEF1VG05A/wiki)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
