@@ -23,7 +23,7 @@
 | 7 | Myndvinnsla | 6 | 5 | 
 | - | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
 | 8 | Lokaverkefni. Video, audio & iframe |  7 |  |
-| 9 | Lokaverkefni.  | 7 | 20 |
+| 9 | Lokaverkefni.  | 7 | 25 |
 | 10 | _Námsmat_ | Samtals | 100 |
 
 ---
