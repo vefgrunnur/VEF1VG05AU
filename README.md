@@ -12,17 +12,19 @@
 
 ### 2025 haust, spönn 2. 
 
-| Vika  | Verkefni  | Nr. | Æfingar % | Tímaverkefni % |
+| Vika  | Verkefni  | Nr. | Vægi |
 |---|---|---|---|---|
-| 42 - 43 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 10 | - |
-| 44 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 10 |
-| 45 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 10 | - |
-| 46 | Svegjanleg vefhönnun (_Mobile up_)<br> _**Lykilmatsþáttur**_ | 4  | 5 | 15 |
-| 47 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 10 | - | 
-| 48 | Myndvinnsla | 6 | 5 | 10 |
-| 49 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
-| 50 | Lokaverkefni. _**Lykilmatsþáttur**_ | 7 | - | 20 |
-| 51 | _Námsmat_ | Samtals | 45 | 55 |
+| 2 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
+| 3 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
+| 4 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
+| - | Stöðumat, próf | 1, 2, 3 | 20 |
+| 5 | Svegjanleg vefhönnun (_Mobile up_) | 4  | 5 | 
+| 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
+| 7 | Myndvinnsla | 6 | 5 | 
+| - | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
+| 8 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
+| 9 | Lokaverkefni.  | 7 | - | 20 |
+| 10 | _Námsmat_ | Samtals | 45 | 55 |
 
 ---
 
