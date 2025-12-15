@@ -22,9 +22,9 @@
 | 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
 | 7 | Myndvinnsla | 6 | 5 | 
 | - | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
-| 8 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
-| 9 | Lokaverkefni.  | 7 | - | 20 |
-| 10 | _Námsmat_ | Samtals | 45 | 100 |
+| 8 | Lokaverkefni. Video, audio & iframe |  7 |  |
+| 9 | Lokaverkefni.  | 7 | 20 |
+| 10 | _Námsmat_ | Samtals | 100 |
 
 ---
 
