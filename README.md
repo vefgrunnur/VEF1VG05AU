@@ -13,7 +13,7 @@
 ### 2025 haust, spönn 2. 
 
 | Vika  | Verkefni  | Nr. | Vægi |
-|---|---|---|---|---|
+|---|---|---|---|
 | 2 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
 | 3 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
 | 4 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
