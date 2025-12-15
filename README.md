@@ -24,7 +24,7 @@
 | - | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
 | 8 | Lokaverkefni. Video, audio & iframe |  7 | - | - |
 | 9 | Lokaverkefni.  | 7 | - | 20 |
-| 10 | _Námsmat_ | Samtals | 45 | 55 |
+| 10 | _Námsmat_ | Samtals | 45 | 100 |
 
 ---
 
