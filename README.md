@@ -43,21 +43,21 @@
  
 ### Námsmat
 
-1. verkefni 10%.  Vefþróunarsvæði
-1. verkefni 15%. CSS, Box Modelið og display - **Tímaverkefni**
-1. verkefni 10%. Grid og Flex
-1. verkefni 20%. Sveigjanleg hönnun. -  **Tímaverkefni**
-1. verkefni 10%. Letur- og litaval. Leiðakerfi og staðsetning taga
-1. verkefni 15%. Myndvinnsla  - **Tímaverkefni**
-1. lokaverkefni 20%. Video, audio og iframe. -  _**Lykilmatsþáttur**_
+1. verkefni 5%.  Vefþróunarsvæði
+2. verkefni 5%. CSS, Box Modelið og display - **Tímaverkefni**
+3. verkefni 5%. Grid og Flex
+4. verkefni 5%. Sveigjanleg hönnun
+   - Stöðumat - próf **20**
+6. verkefni 5%. Letur- og litaval. Leiðakerfi og staðsetning taga
+7. verkefni 5%. Myndvinnsla
+   - Stöðumat - próf **25** -  _**Lykilmatsþáttur**_
+8. lokaverkefni 25%. Video, audio og iframe
 
 ---
 
 ### Verkefnaskil 
 
--  Tímaverkefni er unnið í lok verkefna 2, 4 og 6 í síðustu kennslustund hvers verkefnis
--  Tímaverkefnunum er skilað í Innu/VEFÞ1VG05AU/verkefni{n}
--  Æfingar sem fylgja verkefnalýsingu er skilað í sömu verkefnaskil 
+-  Verkefnunum er skilað í Innu/VEFÞ1VG05AU/verkefni fyrir skilafrest sem tiltekin er í verklýsingu.
 
 ---
 
