@@ -32,14 +32,14 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 42-43 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 44 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | **Tímaverkefni** | 
-| 45 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
-| 46 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Tímaverkefni** | 
-| 47 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
-| 48 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Tímaverkefni** |        
-| 49 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
-| 50 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Verkefnaskil 12.12. <br> Kl. 23:59 (deadline)_ |
+| 2 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 3 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) |  | 
+| 4 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar | Grid svæði |   
+| 5 | Sveiganleg hönnun  @media | Dálkaskipting | Efnisyfirlit | **Stöðumat** | 
+| 6 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
+| 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
+| 8 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
+| 9 - 10 | Lokaverkefni, frágangur | uppsetning á internetið | ~ | _Verkefnaskil 04.03. <br> Kl. 23:59 (deadline)_ |
  
 ### Námsmat
 
