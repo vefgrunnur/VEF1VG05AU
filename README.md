@@ -55,11 +55,7 @@
 
 ---
 
-### Verkefnaskil 
-
--  Verkefnunum er skilað í Innu/VEFÞ1VG05AU/verkefni fyrir skilafrest sem tiltekin er í verklýsingu.
-
----
+#### [Undirbúningur og kennslufrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Kennslufyrirkomulag)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
 
