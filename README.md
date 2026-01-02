@@ -44,7 +44,7 @@
 ### Námsmat
 
 1. verkefni 5%.  Vefþróunarsvæði
-2. verkefni 5%. CSS, Box Modelið og display - **Tímaverkefni**
+2. verkefni 5%. CSS, Box Modelið
 3. verkefni 5%. Grid og Flex
 4. verkefni 5%. Sveigjanleg hönnun
    - Stöðumat - próf **20%**
