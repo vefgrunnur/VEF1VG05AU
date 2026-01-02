@@ -135,4 +135,9 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 *  **Efnisyfirlit sveigjanlegt**
     * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
 
+
+### Verkefnaskil
+
+- Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 4 í Innu
+
 #### Einkunn verður birt í Innu

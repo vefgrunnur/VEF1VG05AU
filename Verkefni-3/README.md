@@ -52,9 +52,6 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 
 ### Verkefnaskil
 
-- Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefnaskil 3 í Innu
-
+- Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 3 í Innu
 
 #### Einkunn verður birt í Innu
-
-#### [Námsefni](Namsefni-3/README.md)

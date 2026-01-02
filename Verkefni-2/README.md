@@ -71,9 +71,7 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 ### Verkefnaskil
 
-- Setjið öll gögn tímaverkefnisins í **.zip skrá** og skilið í verkefni 2 í Innu
+- Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 2 í Innu
 
 #### Einkunn verður birt í Innu
-
-#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-2/N%C3%A1msefni)
 

@@ -71,9 +71,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Verkefnaskil
 
-- Setjið æfingaverkefni í **.zip skrá** og skilið í verkefni 1 í INNU.
+- Setjið verkefnið í **.zip skrá** og skilið í INNU/verkefni/verkefni-1.
 
 #### Einkunn verður birt í Innu
-
-#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-1/Namsefni-1)
 

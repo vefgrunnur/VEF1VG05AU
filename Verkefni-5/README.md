@@ -57,7 +57,7 @@ Búðu til 3 dálka röð með eftirtöldum upplýsingum:
 
 ---
 
-### Námsmat 10%
+### Námsmat 5%
 
 * 2% 5.1 Leturval
 * 2% 5.2 Litaval 
@@ -69,7 +69,9 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 #### Einkunn verður birt í Innu
 
-#### [Námsefni](Namsefni-5)
+---
+
+#### Bjargir
 
 #### Letur og _leturfræði_
 
