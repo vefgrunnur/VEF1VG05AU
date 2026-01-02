@@ -55,7 +55,7 @@
 
 ---
 
-#### [Undirbúningur og kennslufrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
+#### [Undirbúningur og kennslufyrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
 
