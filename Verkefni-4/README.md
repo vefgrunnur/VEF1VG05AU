@@ -124,9 +124,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 ---
 
-### Lykilmatsþáttur 20%
-
-#### Tímaverkefni 15%
+#### Námsmat 5%
 
 * **Vefsíða með viðmiðum**
     * Farsímar (_Mobile_): 0 – 37.5rem (600px)  
@@ -137,10 +135,4 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 *  **Efnisyfirlit sveigjanlegt**
     * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
 
-#### Æfingaverkefni 5%
-
-> Skil á verkefni 4 lokast þegar kennslutíma tímaverksefnisins er lokið
-
 #### Einkunn verður birt í Innu
-
-#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-4/Namsefni-4)
