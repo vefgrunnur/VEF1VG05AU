@@ -61,13 +61,7 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 
 ```
 
-### Námsmat 15% af heildareinkunn
-
-#### Tímaverkefni 10%
-
-- Tímaverkefni er lagt fyrir í síðustu kennslustund 2. verkefnis 
-
-#### Æfingaverkefni 5%
+### Námsmat 5% af heildareinkunn
 
 - 2.1 Box módelið 
 - 2.2 "_display_" stillingar  
