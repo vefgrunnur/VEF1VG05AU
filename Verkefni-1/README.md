@@ -62,7 +62,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ```
 
-### Námsmat 10% af heildareinkunn
+### Námsmat 5% af heildareinkunn
 
 #### Æfingaverkefni
 
