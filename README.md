@@ -47,10 +47,10 @@
 2. verkefni 5%. CSS, Box Modelið og display - **Tímaverkefni**
 3. verkefni 5%. Grid og Flex
 4. verkefni 5%. Sveigjanleg hönnun
-   - Stöðumat - próf **20**
+   - Stöðumat - próf **20%**
 6. verkefni 5%. Letur- og litaval. Leiðakerfi og staðsetning taga
 7. verkefni 5%. Myndvinnsla
-   - Stöðumat - próf **25** -  _**Lykilmatsþáttur**_
+   - Stöðumat - próf **25%** -  _**Lykilmatsþáttur**_
 8. lokaverkefni 25%. Video, audio og iframe
 
 ---
@@ -61,6 +61,6 @@
 
 ---
 
-#### [Bjargir: VEFÞ1VG05A/wiki](https://github.com/vefgrunnur/VEF1VG05A/wiki)
-
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
+
+#### [Bjargir: VEFÞ1VG05A/wiki](https://github.com/vefgrunnur/VEF1VG05A/wiki)
