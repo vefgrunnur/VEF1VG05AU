@@ -22,11 +22,11 @@ Nemendur geta:
 
 1. Búðu til verkefnamöppu í tölvunni þinni og nefndu hana td. **VEF1VG** 
    > Ekki nefna möppur eða skrár með íslenskum stöfum eða hafa bil í heitinu!
-1. Opnaðu Visual Studio Code (VSC), veldu `File -> "Open folder` og vísaðu VSC á verkefnamöppuna þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
+1. Opnaðu Visual Studio Code (VSC), veldu `File -> Open folder` og vísaðu VSC á verkefnamöppuna þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
    ![open folder](Namsefni-1/img/vsc-openfolder.jpg)
 1. Í VSC búðu til möppu með því að fara valglugga (sjá mynd) og smella á möppu+, nefnu hana **verkefni-1** 
    ![NewFolder](Namsefni-1/img/newFolder.jpg)
-1. og í **verkefni-1** möppunni býrðu til HTML vefsíðu sem á að nefna **_index.html_** veldu `File -> "New file`
+1. og í **verkefni-1** möppunni býrðu til HTML vefsíðu sem á að nefna **_index.html_** veldu `File -> New file`
 
 ```
   VEF1VG
