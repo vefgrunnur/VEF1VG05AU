@@ -21,7 +21,9 @@ Nemendur geta:
 ### 1.1 Vefþróunarsvæði
 
 1. Opnaðu Visual Studio Code (VSC), veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppu þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
+   ![open folder](Namsefni-1/img/vsc-openfolder.jpg)
 1. Í VSC búðu til möppu og nefnu hana **"Verkefni-1"** og í þá möppu, HTML vefsíðu sem á að nefna _index.html_ veldu **"File -> "New file"**
+
 ```
   VEFÞ1-verkefni
   |_verkefni-1
