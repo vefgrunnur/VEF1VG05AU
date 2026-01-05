@@ -1,5 +1,3 @@
-Hér er yfirlit yfir helstu HTML einingarnar (tögin) sett upp sem Markdown síða, byggt á upplýsingum úr heimildunum.
-
 # Helstu HTML einingar og hlutverk þeirra
 
 HTML (HyperText Markup Language) er notað til að skipuleggja strúktúr og innihald vefsíðna. Hér að neðan er listi yfir algengustu einingarnar sem notaðar eru til að byggja upp vefefni.
