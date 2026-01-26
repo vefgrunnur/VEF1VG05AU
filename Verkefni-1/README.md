@@ -42,6 +42,8 @@ Nemendur geta:
    ![Install](Namsefni-1/img/liveServer.jpg)
 3. Til að skoða vefsíðu í _localhost_ þá velur þú **Go Live** sem er neðst í hægra horni VSC
    ![Go Live](Namsefni-1/img/goLive.jpg)
+4. það er líka hægt að "hægri smella" mús á vefsíðu og velja "Open with Live Server"
+   ![Open LS](Namsefni-1/img/liveServer.jpg)
 
 
 ### 1.2 HTML
