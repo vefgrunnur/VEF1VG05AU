@@ -33,6 +33,13 @@ Nemendur geta:
   |_verkefni-1
     |_index.html
 ```
+### Vefsíða skoðuð í vafra (_localhost_)
+
+Það er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
+
+1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
+2. Veldu 
+
 ### 1.2 HTML
 
 VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
