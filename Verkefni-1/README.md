@@ -39,7 +39,7 @@ Nemendur geta:
 
 1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
 2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
-   ![Install](Namsefni-1/img/liveServer.jpg)
+   ![Install](Namsefni-1/img/installServer.jpg)
 3. Til að skoða vefsíðu í _localhost_ þá velur þú **Go Live** sem er neðst í hægra horni VSC
    ![Go Live](Namsefni-1/img/goLive.jpg)
 4. það er líka hægt að "hægri smella" mús á vefsíðu og velja "Open with Live Server"
