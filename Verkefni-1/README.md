@@ -38,7 +38,11 @@ Nemendur geta:
 Það er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
 
 1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
-2. Veldu 
+2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
+   ![Install](Namsefni-1/img/liveServer.jpg)
+3. Til að skoða vefsíðu í _localhost_ þá velur þú **Go Live** sem er neðst í hægra horni VSC
+   ![Go Live](Namsefni-1/img/openLS.jpg)
+
 
 ### 1.2 HTML
 
