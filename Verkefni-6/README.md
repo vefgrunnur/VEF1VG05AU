@@ -27,11 +27,11 @@ Nemendur geta:
 
     ```HTML
     <picture>
-        <source media="(min-width:80rem)" srcset="stór mynd 1920px +">
-        <source media="(min-width:60rem)" srcset="1280px breidd">
-        <source media="(min-width:48rem)" srcset="960px breidd"> 
-        <source media="(min-width:37.5rem)" srcset="768px breidd">
-        <source media="(min-width:20rem)" srcset="600px breidd">
+        <source media="(min-width:1930px)" srcset="stór mynd 3640px breidd">
+        <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
+        <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
+        <source media="(min-width:768px)" srcset="mynd 960px  breidd">
+        <source media="(min-width:0px)" srcset="mynd 600px breidd">
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
     ```
