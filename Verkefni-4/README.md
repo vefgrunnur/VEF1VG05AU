@@ -127,8 +127,8 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 #### Námsmat 5%
 
 * **4.1 Dálkar með viðmiðum**
-* **4.2 _Grid template columns_**
-* **4.3 "Grid-template-area"_**
+* **4.2 Grid template columns**
+* **4.3 Grid template area**
 * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
 
 ### Verkefnaskil
