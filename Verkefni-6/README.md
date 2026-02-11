@@ -31,7 +31,8 @@ Nemendur geta:
         <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
         <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
         <source media="(min-width:768px)" srcset="mynd 960px  breidd">
-        <source media="(min-width:0px)" srcset="mynd 600px breidd">
+        <source media="(min-width:480px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
+        <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
     ```
