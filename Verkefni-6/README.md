@@ -68,8 +68,6 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 
 ### Námsmat 5%
 
--	Leturgerðin “Open Sans” sótt af Google fonts
--	Tenglar vísa á málsgreinar í vefsíðunni
 -	Skipting fosíðumyndar eftir skjástærðum
     - Farsímar (lóðrétt): 20rem - 37.5rem
     - Farsímar (lárétt): 37.5rem - 48rem
