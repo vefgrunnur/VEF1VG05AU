@@ -27,11 +27,12 @@ Nemendur geta:
 
     ```HTML
     <picture>
-        <source media="(min-width:80rem)" srcset="stór mynd 1920px +">
-        <source media="(min-width:60rem)" srcset="1280px breidd">
-        <source media="(min-width:48rem)" srcset="960px breidd"> 
-        <source media="(min-width:37.5rem)" srcset="768px breidd">
-        <source media="(min-width:20rem)" srcset="600px breidd">
+        <source media="(min-width:1930px)" srcset="stór mynd 3640px breidd">
+        <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
+        <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
+        <source media="(min-width:768px)" srcset="mynd 960px  breidd">
+        <source media="(min-width:480px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
+        <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
     ```
@@ -64,24 +65,18 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
         }
 ```
 
-### Námsmat 
+---
 
-#### Tímaverkefni 10%
+### Námsmat 5%
 
--	1% Leturgerðin “Open Sans” sótt af Google fonts
--	1% Tenglar vísa á málsgreinar í vefsíðunni
 -	Skipting fosíðumyndar eftir skjástærðum
-    - 2% Farsímar (lóðrétt): 20rem - 37.5rem
-    - 2% Farsímar (lárétt): 37.5rem - 48rem
-    - 2% Spjaldtölvur: 48rem - 80rem
-    - 2% Fartölvur og tölvuskjáir: 60rem +
--	2% Myndir í málsgreinum í réttri stærð og aðlagast dálki
--	2% Mynd af höfundi með gagnsæjum grunni (transparent)
--	1% Allar myndir í sér möppu (images/)
-
-#### Æfingaverkefni 5%
-
-> Skil á verkefni 6 lokast þegar síðasta kennslutíma tímaverkefnisins er lokið
+    - Farsímar (lóðrétt): 20rem - 37.5rem
+    - Farsímar (lárétt): 37.5rem - 48rem
+    - Spjaldtölvur: 48rem - 80rem
+    - Fartölvur og tölvuskjáir: 60rem +
+-	Myndir í málsgreinum í réttri stærð og aðlagast dálki
+-	Mynd af höfundi með gagnsæjum grunni (transparent)
+-	Allar myndir í sér möppu (images/)
 
 Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 6**. 
 
@@ -103,6 +98,3 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 #### "Dummy" myndir
 
 * [Lorem Flickr](https://loremflickr.com/)
-
-
-

@@ -20,13 +20,32 @@ Nemendur geta:
 
 ### 1.1 Vefþróunarsvæði
 
-1. Opnaðu Visual Studio Code (VSC), veldu **"File -> "Open folder"** og vísaðu VSC á Verkefnamöppu þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
-1. Í VSC búðu til möppu og nefnu hana **"Verkefni-1"** og í þá möppu, HTML vefsíðu sem á að nefna _index.html_ veldu **"File -> "New file"**
+1. Búðu til verkefnamöppu í tölvunni þinni og nefndu hana td. **VEF1VG** 
+   > Ekki nefna möppur eða skrár með íslenskum stöfum eða hafa bil í heitinu!
+1. Opnaðu Visual Studio Code (VSC), veldu `File -> Open folder` og vísaðu VSC á verkefnamöppuna þar sem þú ætlar að vista öll gögn sem unnin eru í áfanganum
+   ![open folder](Namsefni-1/img/vsc-openfolder.jpg)
+1. Í VSC búðu til möppu með því að fara valglugga (sjá mynd) og smella á möppu+, nefnu hana **verkefni-1** 
+   ![NewFolder](Namsefni-1/img/newFolder.jpg)
+1. og í **verkefni-1** möppunni býrðu til HTML vefsíðu sem á að nefna **_index.html_** veldu `File -> New file`
+
 ```
-  VEFÞ1-verkefni
+  VEF1VG
   |_verkefni-1
     |_index.html
 ```
+### Vefsíða skoðuð í vafra (_localhost_)
+
+Það er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
+
+1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
+2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
+   ![Install](Namsefni-1/img/installServer.jpg)
+3. Til að skoða vefsíðu í _localhost_ þá velur þú **Go Live** sem er neðst í hægra horni VSC
+   ![Go Live](Namsefni-1/img/goLive.jpg)
+4. það er líka hægt að "hægri smella" mús á vefsíðu og velja "Open with Live Server"
+   ![Open LS](Namsefni-1/img/liveServer.jpg)
+
+
 ### 1.2 HTML
 
 VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
@@ -62,7 +81,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ```
 
-### Námsmat 10% af heildareinkunn
+### Námsmat 5% af heildareinkunn
 
 #### Æfingaverkefni
 
@@ -71,9 +90,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Verkefnaskil
 
-- Setjið æfingaverkefni í **.zip skrá** og skilið í verkefni 1 í INNU.
+- Setjið verkefnið í **.zip skrá** og skilið í INNU/verkefni/verkefni-1.
 
 #### Einkunn verður birt í Innu
-
-#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-1/Namsefni-1)
 

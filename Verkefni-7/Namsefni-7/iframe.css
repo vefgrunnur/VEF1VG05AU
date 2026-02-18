@@ -1,8 +1,5 @@
-/* Rétt hlutfall youtube > iframe  (.gluggi) 
-
-   óskuð breidd deilt í upphaflega breidd = n% 
-
-   til að finna rétta hæð : n%  * upphafleg hæð 
+/* Rétt hlutfall youtube > iframe  
+   padding-bottom: 56.25%; /* 16:9 */
 */
 
 .video-container {

@@ -124,23 +124,15 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 
 ---
 
-### Lykilmatsþáttur 20%
+#### Námsmat 5%
 
-#### Tímaverkefni 15%
+* **4.1 Dálkar með viðmiðum**
+* **4.2 Grid template columns**
+* **4.3 Grid template area**
+* Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
 
-* **Vefsíða með viðmiðum**
-    * Farsímar (_Mobile_): 0 – 37.5rem (600px)  
-    * Spjaldtölvur (_Tablet_): 48rem (768px) 
-    * Fartölvur (_Laptop_): 60rem (960px) 
-    * Borðtölvur (_Desktop_): 80rem (1280px) 
-    * Efni vefsíðunnar er miðjusett (_margin:auto;_) í stærri skjáum (100rem)
-*  **Efnisyfirlit sveigjanlegt**
-    * Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
+### Verkefnaskil
 
-#### Æfingaverkefni 5%
-
-> Skil á verkefni 4 lokast þegar kennslutíma tímaverksefnisins er lokið
+- Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 4 í Innu
 
 #### Einkunn verður birt í Innu
-
-#### [Námsefni](https://github.com/vefgrunnur/24H-verkefni/tree/main/Verkefni-4/Namsefni-4)

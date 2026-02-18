@@ -33,21 +33,22 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
 * [Uppsetning vefs á Internetið - Github.io](Namsefni-7/uppsetning-github.io/)
-* Sjá dæmi: [Bítlarnir (sýnidæmi)](https://vefgrunnur.github.io/synidaemi/lokaverkefni/2023/beatles/ferill.html)
+* [Sýnidæmi á Github](https://vefgrunnur.github.io/synidaemi/)
 
 > Ef video á Youtube er með auglýsingum þá birtist það ekki í iframe á _localhost_. Vafrinn leyfir það ekki. Vidóið spilar samt sem áður á internetinu. 
 
-### Lykilmatsþáttur 20%
+### Lykilmatsþáttur 25%
 
-* 4% Vefsíðan er í svegjanlegri hönnun og efni síðunnar birtist eðlilega í öllum helstu skjástærðum 
-* 3% Umföllun um hljómsveit eða tónlistarmann (_frjálst efnisval_).
+* 4% Vefsíðan er svegjanleg og efni síðunnar birtist eðlilega í helstu skjástærðum 
+* 3% Texti, umföllun um hljómsveit eða tónlistarmann (_frjálst efnisval_).
+* 3% Ljósmyndir 1 eða fleiri birtast eðlilega í öllum skjástærðum 
 * 3% Kvikmynd er á vefsíðunni &lt;iframe> (_share video from mediaserver_)
 * 3% Hljóðskrá er á vefsíðunni &lt;audio> (_mp3 format_)
 * 3% Kort er á vefsíðunni &lt;iframe> (_embed google map_)
-* 2% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
-* 2% Birting vefsíðu á internetinu
+* 3% HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu.
+* 3% Birting vefsíðu á internetinu
 
-#### Skil á verkefni 7 lokast 13.10 Kl. 23:59.
+#### Skil á verkefni 7 lokast 04/03 Kl. 23:59.
 
 * Öllum gögnum er skilað í Innu/VEFÞ1VG05AU/verkefni 7
 * Tengill (_link_) sem vísar á vefsíðu á _Github.io_ er skilað í "_Athugasemd til kennara_" í verkefni 7
@@ -56,7 +57,7 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 _Gangi þér vel_
 
-#### [Námseefni](Namsefni-7)
+---
 
 #### Tónlist og hljóð 
 
