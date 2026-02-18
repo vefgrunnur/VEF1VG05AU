@@ -7,7 +7,7 @@ Nemendur geta:
 * tengt kvikmynd (_video_)  á vefsíðu sem hægt er að spila í vafranum. 
 * tengt hljóðskrá (_audio_) á vefsíðu sem hægt er að spila í vafranum. 
 * sett [staðsetningarkort](https://www.google.is/maps/place/T%C3%A6knisk%C3%B3linn+-+H%C3%A1teigsvegur/@64.1390675,-21.9048536,17z/data=!3m1!4b1!4m5!3m4!1s0x48d674cc84500001:0x16719bf129fa31a7!8m2!3d64.1390675!4d-21.9026596) á vefsíðu (_footer_). 
-* [Uppsetning vefsíðu á (notandi).github.io](Namsefni-7/README.md)
+* [Uppsetning vefsíðu á (notandi).github.io](Namsefni-7/uppsetning-github.io/README.md)
 
 #### Verklýsing
 
