@@ -50,8 +50,8 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 #### Skil á verkefni 7 lokast 04/03 Kl. 23:59.
 
-* Öllum gögnum er skilað í Innu/VEFÞ1VG05AU/verkefni 7
-* Tengill (_link_) sem vísar á vefsíðu á _Github.io_ er skilað í "_Athugasemd til kennara_" í verkefni 7
+* Öllum gögnum er skilað í Innu/VEFÞ1VG05AU/verkefni 7 (.zip skrá)
+* Tengill (_link_) sem vísar á vefsíðu á _Github.io_ er skilað í "_vefslóð til kennara_" í verkefni 7
 
 #### Einkunn verður birt í Innu
 
