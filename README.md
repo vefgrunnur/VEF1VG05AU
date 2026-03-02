@@ -41,7 +41,7 @@
 | 17 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
 | 18 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
 | 19 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
-| 20 -21 | Lokaverkefni, frágangur | uppsetning á internetið |  _Verkefnaskil 04.03. <br> Kl. 23:59 (deadline)_ | ~ |
+| 20 -21 | Lokaverkefni, frágangur | uppsetning á internetið |  _Verkefnaskil 18/05. <br> Kl. 23:59 (deadline)_ | ~ |
  
 ### Námsmat
 
