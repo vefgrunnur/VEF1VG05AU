@@ -26,7 +26,7 @@
 | -  | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
 | 19 | Lokaverkefni. Video, audio & iframe |  7 |  |
 | 20 | Lokaverkefni.  | 7 | 25 |
-| 21 | Síðasti kennsludagur 18/05 _Námsmat_ | Samtals | 100 |
+| 21 | Síðasti kennsludagur 18/05. _Námsmat_ | Samtals | 100 |
 
 ---
 
@@ -34,14 +34,14 @@
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 2 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 3 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | Grid svæði  | 
-| 4 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar |  **Stöðumat**  |   
-| 5 | Sveiganleg hönnun | Dálkaskipting | - | Efnisyfirlit | 
-| 6 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
-| 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
-| 8 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
-| 9 - 10 | Lokaverkefni, frágangur | uppsetning á internetið |  _Verkefnaskil 04.03. <br> Kl. 23:59 (deadline)_ | ~ |
+| 11 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 12 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | Grid svæði  | 
+| 13 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar |  **Stöðumat**  |   
+| 15 - 16 | Sveiganleg hönnun | Dálkaskipting | - | Efnisyfirlit | 
+| 17 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
+| 18 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
+| 19 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
+| 20 -21 | Lokaverkefni, frágangur | uppsetning á internetið |  _Verkefnaskil 04.03. <br> Kl. 23:59 (deadline)_ | ~ |
  
 ### Námsmat
 
