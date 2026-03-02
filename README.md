@@ -26,7 +26,7 @@
 | -  | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
 | 19 | Lokaverkefni. Video, audio & iframe |  7 |  |
 | 20 | Lokaverkefni.  | 7 | 25 |
-| 21 | _Námsmat_ | Samtals | 100 |
+| 21 | Síðasti kennsludagur 18/05 _Námsmat_ | Samtals | 100 |
 
 ---
 
