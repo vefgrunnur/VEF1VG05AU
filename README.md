@@ -10,25 +10,26 @@
 
 ### Námsáætlun
 
-### 2026 vor, spönn 1. 
+### 2026 vor, spönn 2. 
 
 | Vika  | Verkefni  | Nr. | Vægi |
 |---|---|---|---|
-| 2 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
-| 3 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
-| 4 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
+| 11 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
+| 12 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
+| 13 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
 | - | Stöðumat, próf | 1, 2, 3 | 20 |
-| 5 | Svegjanleg vefhönnun (_Mobile up_) | 4  | 5 | 
-| 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
-| 7 | Myndvinnsla | 6 | 5 | 
+| 14 | Páskafrí |  |  | 
+| 15 | Svegjanleg vefhönnun (_Mobile up_) | 4  | 5 | 
+| 16 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
+| 17 | Myndvinnsla | 6 | 5 | 
 | - | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
-| 8 | Lokaverkefni. Video, audio & iframe |  7 |  |
-| 9 | Lokaverkefni.  | 7 | 25 |
-| 10 | _Námsmat_ | Samtals | 100 |
+| 18 | Lokaverkefni. Video, audio & iframe |  7 |  |
+| 19 | Lokaverkefni.  | 7 | 25 |
+| 20 | _Námsmat_ | Samtals | 100 |
 
 ---
 
-### Vikuáætlun spönn 1
+### Vikuáætlun spönn 2
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
