@@ -17,20 +17,20 @@
 | 11 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
 | 12 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
 | 13 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
-| -  | Stöðumat, próf | 1, 2, 3 | 20 |
+| -  | **Stöðupróf** | 1, 2, 3 | 20 |
 | 14 | Páskafrí |  |  | 
 | 15 | Svegjanleg vefhönnun (_Mobile up_) | 4  |  | 
 | 16 | Svegjanleg vefhönnun (_Mobile up_) | 4  | 5 | 
 | 17 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
 | 18 | Myndvinnsla | 6 | 5 | 
-| -  | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
+| -  | **_Stöðupróf - lykilmatsþáttur_** | 4, 5, 6 | 25 |
 | 19 | Lokaverkefni. Video, audio & iframe |  7 |  |
 | 20 | Lokaverkefni.  | 7 | 25 |
 | 21 | Síðasti kennsludagur 18/05. _Námsmat_ | Samtals | 100 |
 
 ---
 
-### Vikuáætlun spönn 2
+### Vikuáætlun 
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
