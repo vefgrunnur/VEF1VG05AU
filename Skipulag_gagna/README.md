@@ -1,8 +1,6 @@
-# Skipulag gagna: macOS, Linux og Windows
+# macOS, Linux og Windows
 
-## Stutt kynning
-
-Stýrikerfi stjórnar því hvernig tölvan vinnur með skrár, möppur, forrit og tæki. Þótt macOS, Linux og Windows hafi sama grunnhlutverk eru þau ólík í uppsetningu, notendaviðmóti og sveigjanleika.
+> Stýrikerfi stjórnar því hvernig tölvan vinnur með skrár, möppur, forrit og tæki. Þótt macOS, Linux og Windows hafi sama grunnhlutverk eru þau ólík í uppsetningu, notendaviðmóti og sveigjanleika.
 
 ## Helsti munur á stýrikerfunum
 
