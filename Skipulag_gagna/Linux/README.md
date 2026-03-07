@@ -28,7 +28,7 @@
 5. Notaðu leit í skráastjóranum til að finna skrár.
 6. Eyddu óþarfa skrám í ruslið og tæmdu ruslið þegar þú ert viss.
 
-## Mæltar venjur
+## Vinnulag
 
 - Nota eina aðalmöppu fyrir hvert verkefni eða námskeið.
 - Forðast að geyma varanleg gögn á `Desktop`.
