@@ -1,6 +1,7 @@
 # Linux, macOS og Windows
 
-<img src="svg/linux-svgrepo-com.svg" width="80"; padding-left:3rem; height="80" padding-left:3rem;> <img src="svg/apple-svgrepo-com.svg" width="80" padding-left:3rem; height="80"; padding-left:3rem;> <img src="svg/Microsoft-Windows.svg" width="80"; padding-left:3rem; height="80" padding-left:3rem;> 
+<img src="svg/linux-svgrepo-com.svg" width="80" height="80" style="padding-left:2rem"> <img src="svg/apple-svgrepo-com.svg" width="80" height="80" style="padding-left:2rem"> <img src="svg/Microsoft-Windows.svg" width="80" height="80" style="padding-left:2rem"> 
+
 
 > Stýrikerfi stjórnar því hvernig tölvan vinnur með skrár, möppur, forrit og tæki. Þótt macOS, Linux og Windows hafi sama grunnhlutverk eru þau ólík í uppsetningu, notendaviðmóti og sveigjanleika.
 
