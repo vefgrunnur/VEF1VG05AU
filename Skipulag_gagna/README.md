@@ -1,4 +1,4 @@
-# macOS, Linux og Windows
+# Linux, macOS og Windows
 
 |---|---|---|
 | <img src="svg/linux-svgrepo-com.svg" width="100" height="100"> |
