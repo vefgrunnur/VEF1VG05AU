@@ -3,10 +3,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg width="100px" height="100px" viewBox="-1.5 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    
-    <title>apple [#173]</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
 
 </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -19,6 +15,7 @@
         </g>
     </g>
 </svg>
+
 ## Inngangur
 
 Í macOS er upplýsingum stjórnað með skráakerfi. Skráakerfið byggir á skrám og möppum sem eru skipulagðar á ákveðnum stöðum í tölvunni. Markmiðið er að notandi geti fundið gögn fljótt, haldið vinnu skipulagðri og tryggt öryggi gagna með afritun.
