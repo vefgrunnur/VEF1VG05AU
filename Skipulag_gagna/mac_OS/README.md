@@ -12,7 +12,7 @@
 - `Mappa`: Geymsla sem heldur utan um skrár og aðrar möppur.
 - `Staðsetning`: Slóð sem segir hvar skrá eða mappa er vistuð.
 
-## Helstu möppur í Finder <img src="../svg/finder-svgrepo-com.svg" width="30px" height="30px">
+## Helstu möppur í Finder <sub><img src="../svg/finder-svgrepo-com.svg" width="30" height="30"></sub>
 
 - `Desktop`: Tímabundin gögn sem þarf skjótan aðgang að.
 - `Documents`: Verkefni, skýrslur og önnur vinnuskjöl.
@@ -61,7 +61,7 @@ Gott skipulag gagna í macOS byggist á þremur atriðum: rétt flokkun í möpp
 
 Dæmi: öll gögn í verkefni 1 er í einni möppu sem er þjöppuð í **.zip skrá**
 
-### Hvernig á að þjappa gögnum í eina .zip skrá? <sup><img src="../svg/zip-svgrepo-com.svg" width="30" height="30"></sub>
+### Hvernig á að þjappa gögnum í eina .zip skrá? <sub><img src="../svg/zip-svgrepo-com.svg" width="30" height="30"></sub>
 
 1. Opnaðu **Finder**.
 2. Finndu möppuna eða skrárnar sem á að skila.
