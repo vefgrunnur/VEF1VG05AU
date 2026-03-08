@@ -12,7 +12,7 @@
 - `Mappa`: Geymsla sem heldur utan um skrár og aðrar möppur.
 - `Staðsetning`: Slóð sem segir hvar skrá eða mappa er vistuð.
 
-## Helstu möppur í Finder
+## Helstu möppur í Finder <img src="../svg/finder-svgrepo-com.svg" width="20px" height="20px">
 
 - `Desktop`: Tímabundin gögn sem þarf skjótan aðgang að.
 - `Documents`: Verkefni, skýrslur og önnur vinnuskjöl.
