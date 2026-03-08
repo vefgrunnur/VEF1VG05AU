@@ -61,7 +61,7 @@ Gott skipulag gagna í macOS byggist á þremur atriðum: rétt flokkun í möpp
 
 Dæmi: öll gögn í verkefni 1 er í einni möppu sem er þjöppuð í **.zip skrá**
 
-### Hvernig á að þjappa gögnum í eina .zip skrá?
+### Hvernig á að þjappa gögnum í eina .zip skrá? <img src="../svg/zip-svgrepo-com.svg" width="30" height="30">
 
 1. Opnaðu **Finder**.
 2. Finndu möppuna eða skrárnar sem á að skila.
