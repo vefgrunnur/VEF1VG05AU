@@ -1,5 +1,9 @@
 # macOS, Linux og Windows
 
+<img src="svg/linux-svgrepo-com.svg" width="100" height="100"> 
+<img src="svg/apple-svgrepo-com.svg" width="100" height="100"> 
+<img src="svg/Microsoft-Windows.svg.svg" width="100" height="100"> 
+
 > Stýrikerfi stjórnar því hvernig tölvan vinnur með skrár, möppur, forrit og tæki. Þótt macOS, Linux og Windows hafi sama grunnhlutverk eru þau ólík í uppsetningu, notendaviðmóti og sveigjanleika.
 
 ## Helsti munur á stýrikerfunum
