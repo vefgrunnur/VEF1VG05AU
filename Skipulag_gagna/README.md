@@ -4,11 +4,11 @@
 
 ## Helsti munur á stýrikerfunum
 
-- **macOS:** Einfalt og samræmt notendaviðmót, sterkt vistkerfi með Apple-tækjum og góð innbyggð afritun (Time Machine).
+- **macOS:** Samræmt notendaviðmót, sterkt vistkerfi með Apple-tækjum og góð innbyggð afritun (Time Machine).
 - **Windows:** Algengasta stýrikerfið á almennum tölvum, breiður stuðningur við hugbúnað og leiki, og samþætting við Microsoft-þjónustur.
 - **Linux:** Opinn hugbúnaður, mjög sveigjanlegt umhverfi, vinsælt í forritun og netþjónum, en getur krafist meiri tæknikunnáttu.
 
-## Skipulag gagna eftir stýrikerfi
+## Skipulag gagna eftir stýrikerfi og .zip leiðbeiningar
 
 - [macOS: Skipulag gagna og .zip leiðbeiningar](./mac_OS/README.md)
 - [Windows: Skipulag gagna og .zip leiðbeiningar](./Windows/README.md)
