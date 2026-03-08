@@ -1,5 +1,7 @@
 # Skipulag gagna í Windows
 
+<img src="../svg/Microsoft-Windows.svg" width="100" height="100">
+
 ## Inngangur
 
 Í Windows er upplýsingum stjórnað með skráakerfi. Skráakerfið byggir á skrám og möppum sem eru vistaðar á ákveðnum stöðum í tölvunni. Markmiðið er að halda gögnum skipulögðum, auðvelda leit og tryggja öryggi með reglulegri afritun.
@@ -57,7 +59,7 @@ Gott skipulag gagna í Windows byggist á þremur atriðum: rétt flokkun í mö
 
 Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip skrá**.
 
-### Hvernig á að þjappa gögnum í eina .zip skrá?
+### Hvernig á að þjappa gögnum í eina .zip skrá? <sub><img src="../svg/finder-svgrepo-com.svg" width="30" height="30"></sub>
 
 1. Opnaðu **File Explorer**.
 2. Finndu möppuna eða skrárnar sem á að skila.
@@ -74,4 +76,13 @@ Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip 
 
 - Best er að setja allt verkefnið fyrst í **eina möppu** og þjappa síðan þeirri möppu.
 - Endurnefndu `.zip` skrána áður en henni er skilað, til dæmis `Nafn-Verkefni1.zip`.
+
+### Windows 11
+
 - Til að opna `.zip` skrá aftur er nóg að tvísmella; Windows afþjappar henni eða sýnir innihald hennar strax.
+
+### Windows 10
+
+það er ekki hægt að vinna með gögn sem eru bundin saman í .zip skrá fyrst þarf að afþjappa skrána
+
+- Hægri smellið á `.zip` skrána og veljið **Uncompress** 
