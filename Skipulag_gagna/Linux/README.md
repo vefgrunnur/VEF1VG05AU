@@ -1,10 +1,10 @@
 # Skipulag gagna í Linux
 
+<img src="../svg/linux-svgrepo-com.svg" width="100" height="100">
+
 ## Inngangur
 
 Í Linux er upplýsingum stjórnað með skráakerfi sem byggir á skrám og möppum. Gögn eru skipulögð í möppur eftir tilgangi svo auðvelt sé að finna efni, halda utan um verkefni og taka öryggisafrit.
-
-<img src="../svg/linux-svgrepo-com.svg" width="100" height="100">
 
 ## Grunnhugtök
 
