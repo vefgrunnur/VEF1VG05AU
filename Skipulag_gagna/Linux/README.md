@@ -58,7 +58,7 @@ Gott skipulag gagna í Linux byggist á þremur atriðum: rétt flokkun í möpp
 
 Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip skrá**.
 
-### Hvernig á að þjappa gögnum í eina .zip skrá? <sub><img src="../svg/finder-svgrepo-com.svg" width="30" height="30"></sub>
+### Hvernig á að þjappa gögnum í eina .zip skrá? <sub><img src="../svg/zip-svgrepo-com.svg" width="30" height="30"></sub>
 
 #### Leið 1: Með skráastjóra (myndrænt viðmót)
 
