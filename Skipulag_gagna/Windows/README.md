@@ -87,4 +87,4 @@ Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip 
 
 það er ekki hægt að vinna með gögn sem eru bundin saman í .zip skrá fyrst þarf að afþjappa skrána
 
-- Hægri smellið á `.zip` skrána og veljið **Uncompress** 
+- Hægri smellið á `.zip` skrána og veljið **Extract All...** 
