@@ -1,5 +1,7 @@
 # Verkefni VEFÞ1VG05A
 
+> [VEFÞ105AU Assignment descriptions in english](VEF1VG05AU-English/README.md)
+
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
 1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
