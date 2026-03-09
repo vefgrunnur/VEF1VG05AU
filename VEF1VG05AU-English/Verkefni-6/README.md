@@ -25,9 +25,9 @@ The .zip file downloads to your computer.
 * The picture is saved in five sizes and the browser chooses the right size according to the width of the screen.
 * Subject: <br>
 
-    ```HTML
+```HTML
     <picture>
-<source media="(min-width:1930px)" srcset="large image 3640px width">
+        <source media="(min-width:1930px)" srcset="large image 3640px width">
         <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
         <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
         <source media="(min-width:768px)" srcset="mynd 960px  breidd">
@@ -35,7 +35,8 @@ The .zip file downloads to your computer.
         <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
         <img src="1280px width" alt="img tag must be included (fallback)" style="width:auto;">
     </picture>
-    ```
+    
+```
         
 * With the <picture> tag on a website it is possible to sort pictures according to the width of the screen
 * [Introductory image](images/mynd1.jpg) (_note! new images are included that can be used as an intro image_)
