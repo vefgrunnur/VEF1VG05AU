@@ -33,7 +33,7 @@ The .zip file downloads to your computer.
         <source media="(min-width:768px)" srcset="mynd 960px  breidd">
         <source media="(min-width:480px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
         <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
-<img src="1280px width" alt="img tag must be included (fallback)" style="width:auto;">
+        <img src="1280px width" alt="img tag must be included (fallback)" style="width:auto;">
     </picture>
     ```
         
