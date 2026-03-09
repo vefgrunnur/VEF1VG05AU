@@ -68,7 +68,7 @@ Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip 
 
 1. Opnaðu **Files** og finndu möppuna eða skrárnar sem á að skila.
 2. Veldu efnið sem á að fara í `.zip`.
-3. Hægrismelltu og veldu **Compress...** (heiti getur verið mismunandi milli Linux-umhverfa).
+3. Hægrismelltu á valið efni með mús, eða smelltu neðst hægra megin á snertiflöt og veldu **Compress...** (heiti getur verið mismunandi milli Linux-umhverfa).
 4. Veldu snið `zip`.
 5. Veldu nafn á skránni, til dæmis `Verkefni-1.zip`, og vistaðu.
 

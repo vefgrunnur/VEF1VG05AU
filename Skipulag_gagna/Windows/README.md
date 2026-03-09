@@ -66,7 +66,7 @@ Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip 
 1. Opnaðu **File Explorer**.
 2. Finndu möppuna eða skrárnar sem á að skila.
 3. Ef um margar skrár er að ræða, veldu þær allar (`Ctrl + A` ef allt á að fara með).
-4. Hægrismelltu á valið efni.
+4. Hægrismelltu á valið efni með mús, eða smelltu neðst hægra megin á snertiflöt.
 5. Veldu **Compress to ZIP file** (eða **Send to > Compressed (zipped) folder** í eldri útgáfum af Windows).
 6. Windows býr til `.zip` skrá á sama stað.
 
