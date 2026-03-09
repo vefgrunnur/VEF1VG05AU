@@ -6,7 +6,7 @@
 
 Í Windows er upplýsingum stjórnað með skráakerfi. Skráakerfið byggir á skrám og möppum sem eru vistaðar á ákveðnum stöðum í tölvunni. Markmiðið er að halda gögnum skipulögðum, auðvelda leit og tryggja öryggi með reglulegri afritun.
 
-![Windows 11](explorer.png)
+![Windows 11](explorer-11.png)
 
 ## Grunnhugtök
 
