@@ -1,5 +1,7 @@
 # HTML og CSS 
 
+> Öll verkefni áfangans eru unnin á eigin fartölvu. Nemendur þurfa að hafa skilning á hvernig [skipulag og stýrikerfi](../Skipulag_gagna/README.md) virkar í eign tölvu.
+
 ### Markmið:
 
 Nemendur geta:
