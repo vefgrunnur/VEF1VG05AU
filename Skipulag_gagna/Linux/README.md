@@ -6,6 +6,8 @@
 
 Í Linux er upplýsingum stjórnað með skráakerfi sem byggir á skrám og möppum. Gögn eru skipulögð í möppur eftir tilgangi svo auðvelt sé að finna efni, halda utan um verkefni og taka öryggisafrit.
 
+![Linux, Nautilus](linux-find-files-nautilus.webp)
+
 ## Grunnhugtök
 
 - `Skrá`: Eining sem geymir efni, til dæmis texta, mynd, hljóð eða myndband.

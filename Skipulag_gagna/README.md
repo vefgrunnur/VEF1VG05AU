@@ -12,6 +12,6 @@
 
 ## Skipulag gagna eftir stýrikerfi og .zip leiðbeiningar
 
-- [macOS: Skipulag gagna og .zip leiðbeiningar](./mac_OS/README.md)
-- [Windows: Skipulag gagna og .zip leiðbeiningar](./Windows/README.md)
-- [Linux: Skipulag gagna og .zip leiðbeiningar](./Linux/README.md)
+- <img src="svg/apple-svgrepo-com.svg" width="16" height="16"> [macOS: Skipulag gagna og .zip leiðbeiningar](./mac_OS/README.md)
+- <img src="svg/linux-svgrepo-com.svg" width="16" height="16"> [Windows: Skipulag gagna og .zip leiðbeiningar](./Windows/README.md)
+- <img src="svg/Microsoft-Windows.svg" width="16" height="16"> [Linux: Skipulag gagna og .zip leiðbeiningar](./Linux/README.md)
