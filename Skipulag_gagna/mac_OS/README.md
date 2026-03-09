@@ -6,6 +6,8 @@
 
 Í macOS er upplýsingum stjórnað með skráakerfi. Skráakerfið byggir á skrám og möppum sem eru skipulagðar á ákveðnum stöðum í tölvunni. Markmiðið er að notandi geti fundið gögn fljótt, haldið vinnu skipulagðri og tryggt öryggi gagna með afritun.
 
+![MacOS](Screenshot2022.png)
+
 ## Grunnhugtök
 
 - `Skrá`: Eining sem geymir efni, til dæmis texta, mynd, hljóð eða myndband.
