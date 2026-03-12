@@ -46,8 +46,7 @@ Sjá nánar á: [http://www.w3schools.com/css/css_colors.asp](http://www.w3schoo
 
 ### Bjargir
 
-* [Verkefnalýsing 1](../../)
-* [Námsefni 1](../)
 * [HTML](README.md)
+* [HTML 5 ritháttur](HTML5_ritháttur.md)
 * [CSS](stylesheet.md)
 * [Yfirlit (_HTML Cheat seets_)](https://cheatsheets.shecodes.io/)

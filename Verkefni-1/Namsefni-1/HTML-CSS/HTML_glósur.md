@@ -56,3 +56,10 @@ Hugsaðu um HTML tögin eins og **merkimiða á kössum** í flutningum. Ef þú
 
 **Samlíking til útskýringar:**
 Að hafa þessar slóðir er eins og að vera með **vegabréf og kort** að mismunandi bókasöfnum. **SheCodes** er handhæga handbókin, **GitHub** er verkstæðið þar sem hlutirnir eru smíðaðir, **Vefforritun** er kennslubókin á móðurmálinu og **MDN** er aðalsafnið þar sem allar upplýsingar heimsins um vefinn eru geymdar.
+
+### Bjargir
+
+* [HTML 5 ritháttur](HTML5_ritháttur.md)
+* [Litir í vefsíðu](litir.md)
+* [CSS stílar](stylesheet.md)
+* [Yfirlit yfir CSS skipanir (_CSS Cheat seets_)](https://cheatsheets.shecodes.io/css)
