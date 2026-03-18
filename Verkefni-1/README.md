@@ -85,10 +85,8 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Námsmat 5% af heildareinkunn
 
-#### Æfingaverkefni
-
-- 1.1 HTML 
-- 1.2 CSS 
+- 1.1 HTML vefsíða
+- 1.2 CSS stílsíða
 
 ### Verkefnaskil
 
