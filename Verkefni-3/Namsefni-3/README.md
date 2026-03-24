@@ -10,9 +10,34 @@ Flexbox er einvítt skipulags-módel (_e. one-dimensional layout model_)  til a�
 
 CSS grid er notað til að skilgreina skipulag (_e. layout_) vefsíðu með því að skilgreina raðir (_e. rows_) og dálka (_e. columns_) sem efni síðunar er staðsett í. Þetta svipar til þess þegar vefsíður voru skipulagðar með &lt;table> taginu í gamla daga en Grid er hannað með skalanleika í huga.
 
----
+Munurinn á **grid-template-columns** og **grid-template-areas** felst aðallega í því hvernig þú skilgreinir skipulag (layout) vefsíðunnar og hvernig þú staðsetur efnið innan þess.
 
- Hér er vefsíða með efnisyfirlit með mismunandi langan texta í tenglum og efni síðunnar er með grid skipulagi. 
+Hér er helsti munurinn samkvæmt heimildunum:
+
+### **Grid-template-columns**
+*   **Hlutverk:** Notað til að skilgreina **fjölda og breidd dálka** í grid-kerfinu.
+*   **Aðferð:** Þú tilgreinir stærðir hvers dálks, oft með einingunni `fr` (fractional unit). Til dæmis þýðir `grid-template-columns: repeat(3, 1fr);` að búið sé til þrjá jafnstóra dálka.
+*   **Sveigjanleiki:** Þessi aðferð er mikið notuð með **viðmiðum (@media)** til að breyta dálkafjölda eftir skjástærð, svo sem að fara úr einum dálki í fjóra.
+
+### **Grid-template-areas**
+*   **Hlutverk:** Notað til að búa til **sjónrænt skipulag (template)** þar sem þú staðsetur nefnd svæði í ákveðin hólf.
+*   **Aðferð:** Fyrst þarf að gefa HTML-einingum (klösum) nafn með skipuninni `grid-area` (t.d. `grid-area: article;`). Síðan er skipulagið teiknað upp með textastrengjum inni í gæsalöppum.
+*   **Dæmi:** Á farsíma gæti skipulagið verið lóðrétt listi:
+    ```css
+    grid-template-areas: "article" "aside1" "aside2";
+    ```
+    En á stærri skjá gæti því verið breytt í eina röð:
+    ```css
+    grid-template-areas: "aside1 article article aside2";
+    ```.
+
+### **Helsti munurinn í hnotskurn**
+*   **Grid-template-columns** stýrir **stærð og magni dálka** (lóðréttum brautum) sem efnið flæðir sjálfkrafa í.
+*   **Grid-template-areas** býður upp á **rökrétta nafngift og staðsetningu** á heilum hlutum vefsíðunnar (t.d. að setja hliðarstiku vinstra megin við grein) með því að lýsa hnitum þeirra í grid-kerfinu.
+
+Báðar aðferðirnar eru hluti af **CSS Grid** og eru oft notaðar saman til að ná fram hámarks stjórn á sveigjanlegri hönnun.
+
+
 <!--
 * [Flex og grid sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-3/flex-menu/)
 * [Hér er hægt að skoða kóðann í sýnidæminu](Flexbox/flex-menu/index.html)
