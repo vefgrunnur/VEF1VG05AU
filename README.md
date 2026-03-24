@@ -44,6 +44,8 @@
 | 18 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
 | 19 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
 | 20 -21 | Lokaverkefni, frágangur | uppsetning á internetið |  Verkefnaskil 18/05.  | Kl. 23:59 (deadline) |
+
+---
  
 ### Námsmat
 
@@ -60,6 +62,8 @@
 ---
 
 #### [Undirbúningur og kennslufyrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
+
+#### [Yfirlit verkefna og þau útskýrð í máli og myndum](https://vefgrunnur.github.io/video/)
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
 
