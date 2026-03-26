@@ -14,7 +14,7 @@ Verkefni 3.2.2. Athugið að hér eru HtML tögin færð til þannig að aðald�
 
 ### Verkefni 3.3
 
-Verkefni 3.3.1. Hér er uppsetning HTML tagana eins í báðum verkefnum.
+Verkefni 3.3.1. Hér er uppsetning HTML tagana eins í báðum verkefnum. Skipulaginu er breytt með **grid-template-areas**
 
 ![Grid 1](grid-331.jpg)
 
