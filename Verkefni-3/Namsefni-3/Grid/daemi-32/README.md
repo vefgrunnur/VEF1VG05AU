@@ -2,7 +2,7 @@
 
 ### Verkefni 3.2
 
-Verkefni 3.2.1
+Verkefni 3.2.1. **fr** _fraction_ einingin virkar eins og **%**  
 
 ![Grid 1](grid-321.jpg)
 ![Grid 1](grid-321-4.jpg)
