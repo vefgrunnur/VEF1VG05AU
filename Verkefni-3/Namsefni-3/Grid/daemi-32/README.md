@@ -14,7 +14,7 @@ Verkefni 3.2.2. Athugið að hér eru HtML tögin færð til þannig að aðald�
 
 ### Verkefni 3.3
 
-Verkefni 3.3.1. Hér skiptir uppsetning HTML tagana ekki eins miklu máli.
+Verkefni 3.3.1. Hér er uppsetning HTML tagana eins í báðum verkefnum.
 
 ![Grid 1](grid-331.jpg)
 
