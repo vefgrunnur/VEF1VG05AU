@@ -4,6 +4,8 @@ Flexbox er einvítt skipulags-módel (_e. one-dimensional layout model_)  til a�
 
  Flex skipulag hentar vel í alla runuvinnslu og þar sem nýtt efni er stöðugt að bætast við ss. spjallrásir. Einnig hentar Flex í efnisyfirlit (_content menu_) vefsíðu þar sem efni vefs er sífellt að breytast.
 
+ [Sjá nánari lýsingu](Flexbox/README.md)
+
 ---
 
 # Grid
@@ -29,7 +31,9 @@ Hér er helsti munurinn samkvæmt heimildunum:
     En á stærri skjá gæti því verið breytt í eina röð:
     ```css
     grid-template-areas: "aside1 article article aside2";
-    ```.
+    ```
+
+[Sjá nánari lýsingu hér](Grid/README.md)
 
 ### **Helsti munurinn í hnotskurn**
 *   **Grid-template-columns** stýrir **stærð og magni dálka** (lóðréttum brautum) sem efnið flæðir sjálfkrafa í.
@@ -38,9 +42,8 @@ Hér er helsti munurinn samkvæmt heimildunum:
 Báðar aðferðirnar eru hluti af **CSS Grid** og eru oft notaðar saman til að ná fram hámarks stjórn á sveigjanlegri hönnun.
 
 
-<!--
-* [Flex og grid sýnidæmi](https://vefgrunnur.github.io/synidaemi/verkefni-3/flex-menu/)
-* [Hér er hægt að skoða kóðann í sýnidæminu](Flexbox/flex-menu/index.html)
-* Sjá nánari umfjöllun um Flexbox hér: https://bok.vefforritun.is/17.css-flexbox
-* Sjá nánari umfjöllun um Grid skipulag hér:https://bok.vefforritun.is/21.grid
+#### Lesefni
+
+* Sjá nánari umfjöllun um **CSS Flexbox** hér: https://bok.vefforritun.is/17.css-flexbox
+* Sjá nánari umfjöllun um **CSS Grid** skipulag hér:https://bok.vefforritun.is/21.grid
 -->
