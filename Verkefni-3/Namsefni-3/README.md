@@ -37,7 +37,7 @@ Hér er helsti munurinn samkvæmt heimildunum:
         "aside1 article article aside2";
     ```
 
-[Sjá nánari lýsingu hér](Grid/README.md)
+[Sjá nánari lýsingu hér](Grid/Readme.md)
 
 ### **Helsti munurinn í hnotskurn**
 *   **Grid-template-columns** stýrir **stærð og magni dálka** (lóðréttum brautum) sem efnið flæðir sjálfkrafa í.
