@@ -26,11 +26,15 @@ Hér er helsti munurinn samkvæmt heimildunum:
 *   **Aðferð:** Fyrst þarf að gefa HTML-einingum (klösum) nafn með skipuninni `grid-area` (t.d. `grid-area: article;`). Síðan er skipulagið teiknað upp með textastrengjum inni í gæsalöppum.
 *   **Dæmi:** Á farsíma gæti skipulagið verið lóðrétt listi:
     ```css
-    grid-template-areas: "article" "aside1" "aside2";
+    grid-template-areas: 
+        "article" 
+        "aside1" 
+        "aside2";
     ```
     En á stærri skjá gæti því verið breytt í eina röð:
     ```css
-    grid-template-areas: "aside1 article article aside2";
+    grid-template-areas: 
+        "aside1 article article aside2";
     ```
 
 [Sjá nánari lýsingu hér](Grid/README.md)
@@ -46,4 +50,3 @@ Báðar aðferðirnar eru hluti af **CSS Grid** og eru oft notaðar saman til a�
 
 * Sjá nánari umfjöllun um **CSS Flexbox** hér: https://bok.vefforritun.is/17.css-flexbox
 * Sjá nánari umfjöllun um **CSS Grid** skipulag hér:https://bok.vefforritun.is/21.grid
--->
