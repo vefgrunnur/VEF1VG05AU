@@ -18,9 +18,9 @@ Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**.
 |Verkefni 3 | Verkefni 4 | Titill |
 |:---|:---|:---|
 | V.3.1 | (sleppa) | - |
-| V.3.2 (index) | > V.4.1 (index) | Jöfn dálkastærð |
+| V.3.2 (index) | > V.4.1.1 (index) | Jöfn dálkastærð |
 | V.3.2.2 | > V.4.1.2 | Dálkaskipulag `1fr 3fr 1fr` |
-| V.3.3 (index) | > V.4.2 (index) | Dálkaskipulag `3fr 1fr 1fr` |
+| V.3.3 (index) | > V.1.3 (index) | Dálkaskipulag `3fr 1fr 1fr` |
 | V.3.3.2 | > V.4.2.2 | Grid Area dálkaskipulag A |
 | V.3.3.3 | > V.4.2.3 | Grid Area dálkaskipulag B |
 
