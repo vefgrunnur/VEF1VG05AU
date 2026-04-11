@@ -17,7 +17,7 @@ Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**
 
 |Verkefni 3 | Verkefni 4 |
 |:---|:---|
-| V.3.1 | 0 |
+| V.3.1 | (sleppa) |
 | V.3.2 (index) | > V.4.1 (index) |
 | V.3.2.2 | > V.4.1.2 |
 | V.3.3 (index) | > V.4.2 (index) |
