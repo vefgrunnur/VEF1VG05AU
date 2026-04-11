@@ -11,7 +11,7 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 - [Kóðadæmi með viðmiðum (_@media & breakpoints_) ](Namsefni-4/README.md)
 
-## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
+
 
 Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**  
 
@@ -22,6 +22,8 @@ Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**
 | V.3.2.2 | > V.4.1.2 |
 | V.3.3 (index) | > V.4.2 (index) |
 | V.3.3.2 | > V.4.2.2 |
+
+## 4.1 Sveigjanlegt dálkaskipulag
 
 Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
