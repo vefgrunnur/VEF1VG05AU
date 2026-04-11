@@ -21,8 +21,7 @@ Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**
 | V.3.2 (index) | > V.4.1 (index) |
 | V.3.2.2 | > V.4.1.2 |
 | V.3.3 (index) | > V.4.2 (index) |
-| V.3.3.2 (index) | > V.4.2.2 |
-
+| V.3.3.2 | > V.4.2.2 |
 
 Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
