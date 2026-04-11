@@ -116,7 +116,8 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     .main {
       display: grid;
       grid-template-areas: 
-      "aside1 article article aside2";
+      "article article aside1";
+      "article article aside2";
     }
     ```
     
