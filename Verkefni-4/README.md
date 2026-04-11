@@ -14,8 +14,9 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
 Afritaðu _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu vefsíðuna sveigjanlega. 
-|:---|:---|
+
 |Verkefni 3 | Verkefni 4 |
+|:---|:---|
 | V.3.1 | 0 |
 | V.3.2 | > V.4.1 |
 
