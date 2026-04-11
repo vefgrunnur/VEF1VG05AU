@@ -13,12 +13,16 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 ## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
-Afritaðu _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu vefsíðuna sveigjanlega. 
+Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**  
 
 |Verkefni 3 | Verkefni 4 |
 |:---|:---|
 | V.3.1 | 0 |
-| V.3.2 | > V.4.1 |
+| V.3.2 (index) | > V.4.1 (index) |
+| V.3.2.2 | > V.4.1.2 |
+| V.3.3 (index) | > V.4.2 (index) |
+| V.3.3.2 (index) | > V.4.2.2 |
+
 
 Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
