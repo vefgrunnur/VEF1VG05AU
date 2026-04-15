@@ -24,7 +24,7 @@
 
 ![Efnisyfirlit](img/v5.footer.tablet.jpg) 
 
-## Stór skjár - Desktop <span id="footermenu"></span>
+## Stór skjár - Desktop
 
 ![Efnisyfirlit](img/v5.desktop.jpg) 
 
