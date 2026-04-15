@@ -55,7 +55,8 @@ Búðu til 3 dálka röð með eftirtöldum upplýsingum:
 * Í Fyrsta dálk er Nafn, áfangi, skóli og dagsetning í &lt;dl> lista
 * Í öðrum dálk er "dummy" texti í _details_ lista
 * Í þriðja dálki eru tenglar sem vísar á verkefni 1 - 5 (_Relative links_) og tenglar sem vísa á aðra vefi á internetinu (_absolute links_) 
-  * [Sjá nánar](https://github.com/vefgrunnur/VEF1VG05AU/blob/main/Verkefni-5/Namsefni-5/Daemi/Readme.md#user-content-efnisyfirlit---menu)
+  * [Sjá nánar](https://github.com/vefgrunnur/VEF1VG05AU/blob/main/Verkefni-5/Namsefni-5/Daemi/Readme.md#efnisyfirlit---mobile)
+  * <a href="https://github.com/vefgrunnur/VEF1VG05AU/blob/main/Verkefni-5/Namsefni-5/Daemi/Readme.md#efnisyfirlit---mobile">Sjá nánar</a>
 
 
 ---
