@@ -2,30 +2,30 @@
 
 ## Farsími - Mobile
 
-![Farsímaskjár](v5.1.mobile.jpg) &nbsp; ![Farsímaskjár 2](v5.2.mobile.jpg)
+![Farsímaskjár](img/v5.1.mobile.jpg) &nbsp; ![Farsímaskjár 2](img/v5.2.mobile.jpg)
 
 ## Spjaldtölva - Tablet
 
-![Spjaldtölva](v5.1.tablet.jpg)
+![Spjaldtölva](img/v5.1.tablet.jpg)
 
-![Spjaldtölva](v5.2.tablet.jpg)
+![Spjaldtölva](img/v5.2.tablet.jpg)
 
 ## Fartölva - Laptop
 
-![Fartölva](v5.1.laptop.jpg)
+![Fartölva](img/v5.1.laptop.jpg)
 
-![Fartölva](v5.2.laptop.jpg)
+![Fartölva](img/v5.2.laptop.jpg)
 
 ## Efnisyfirlit - Mobile
 
-![Efnisyfirlit](v5.footer.mobile.jpg) 
+![Efnisyfirlit](img/v5.footer.mobile.jpg) 
 
 ## Efnisyfirlit - Tablet
 
-![Efnisyfirlit](v5.footer.tablet.jpg) 
+![Efnisyfirlit](img/v5.footer.tablet.jpg) 
 
-## Efnisyfirlit - Laptop
+## Stór skjár - Desktop
 
-![Efnisyfirlit](v5.footer.laptop.jpg) 
+![Efnisyfirlit](img/v5.desktop.jpg) 
 
 
