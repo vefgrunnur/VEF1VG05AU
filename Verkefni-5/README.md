@@ -13,9 +13,9 @@ Nemendur geta:
 
 ### Val á leturgerð  
 
-- Með verkefni 5 fylgja með tvær [HTML vefsíður](Namsefni-5/verkefni-5.zip) sem þú átt að nota til að vinna verkefni 5.   
+- Með verkefni 5 fylgja með tvær [HTML vefsíður](Namsefni-5/verkefni-5.zip) sem þú átt að nota til að vinna verkefnið   
   - > index.html og gamanmal.html
-- þú átt að líkja eftir uppsetningunni sem er á myndunum hér [sýnidæmi](Namsefni-5/Daemi/Readme.md), . 
+- Þú átt að líkja eftir uppsetningunni sem er á myndunum hér [sýnidæmi](Namsefni-5/Daemi/Readme.md) 
  
 
 - Búðu til stílsíðu og settu viðeigandi leturstíla á texta vefsins

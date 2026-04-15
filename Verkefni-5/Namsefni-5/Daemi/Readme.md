@@ -24,8 +24,10 @@
 
 ![Efnisyfirlit](img/v5.footer.tablet.jpg) 
 
-## Stór skjár - Desktop
+## Stór skjár - Desktop 
 
 ![Efnisyfirlit](img/v5.desktop.jpg) 
+
+> Athugið að hafa `max-width: 960px` og `margin:auto` á "container" í stærri skjáum
 
 
