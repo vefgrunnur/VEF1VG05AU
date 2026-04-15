@@ -38,22 +38,22 @@ Setjið liti í letur og bakgrunn _að eigin vali_.
 
 ### Leiðakerfi vefs (_e. navigation_)
 
-#### Innra efnisyfirlit (_Relative links_)
+#### Innra efnisyfirlit í hliðardálki (_Relative links_) 
 
-* Í efnisyfirliti vísa tenglar (_links_) á vefsíður verkefnisins og innri tengla í gamanmal.html
+* Í efnisyfirliti vísa tenglar (_links_) á verkefni áfangans
 * Í gamanmal.html á að setja ID eigindið á millifyrirsagnir svo hægt sé að vísa á mismunandi efnisgreinar í síðunni.
+* Í stórum skjáum er efnisyfirlitið í hliðardálki og með stillingunni `_position: sticky_` 
+* Í litlum skjáum er innra efnisyfirlitið fyrir ofan greinarnar og einnig með `_position: sticky_`   
   * [Sjá nánar](Namsefni-5/Daemi/Readme.md)
-* Í stórum skjáum er ákveðin staðsetning innra efnisyfirlits (_position: sticky_) 
-* Í litlum skjáum er innra efnisyfirlitið þar sem það er sett á síðu (_position: relative_)  
-  * Neðst hægra í hægra horni vafrans er hnappur sem vísar efst á vefsíðuna
 
-#### Neðanmálsgrein (_footer_)
+#### Neðanmálsefni (_footer_)
 
 Búðu til 3 dálka röð með eftirtöldum upplýsingum:
 
-* Tenglar sem vísar á verkefni 1 - 5 (_Relative links_)
-* Tenglar sem vísa á aðra vefi á internetinu (_absolute links_) 
-* Nafn, áfangi, skóli og dagsetning í &lt;dl> lista
+* Í Fyrsta dálk er Nafn, áfangi, skóli og dagsetning í &lt;dl> lista
+* Í öðrum dálk er "dummy" texti í _details_ lista
+* Í þriðja dálki eru tenglar sem vísar á verkefni 1 - 5 (_Relative links_) og tenglar sem vísa á aðra vefi á internetinu (_absolute links_) 
+
 
 ---
 
@@ -62,7 +62,7 @@ Búðu til 3 dálka röð með eftirtöldum upplýsingum:
 * 2% 5.1 Leturval
 * 2% 5.2 Litaval 
 * 3% 5.3 Leiðakerfi
-* 3% Ákveðin staðsetning taga. 
+* 3% Ákveðin staðsetning "sticky" á hliðardálki. 
 
 Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 5**. 
 
