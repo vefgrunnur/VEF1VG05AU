@@ -1,20 +1,12 @@
-# Grid dálkar
+# Grid (_display_)
 
-![2 dálkar](grid-31-1.jpg)
-![3 dálkar](grid-31-2.jpg)
-![4 dálkar](grid-31-3.jpg)
+**Grid** (eða CSS Grid) er öflugt kerfi í CSS sem er notað til að **hanna heildstætt skipulag (layout) vefsíðna** og hafa nákvæma stjórn á því hvernig efni er raðað í dálka.
 
----
+Samkvæmt heimildunum virkar það á eftirfarandi hátt:
 
-### Pangrams
+*   **Virkjun:** Kerfið er virkjað á foreldra-einingu með skipuninni **`display: grid;`**.
+*   **Dálkaskipulag:** `grid-template-columns` Það er notað til að búa til skipulega **2, 3 eða 4 dálka uppsetningu** (nefnt col-2, col-3 og col-4 í verkefnum), sem gerir forriturum kleift að skipta síðunni upp á rökréttan hátt.
+*   **Merkingarfræðileg röðun:** Grid er notað til að raða **HTML5 tögum** (svo sem `<header>`, `<nav>`, `<main>`, `<article>`, `<aside>` og `<footer>`) upp í kerfi þar sem hver hluti fær sinn ákveðna stað í heildarútlitinu.
+*   **Grid Template Columns:** Þessi sértæka skipun er notuð til að skilgreina stærð og fjölda dálka í skipulagi vefsíðunnar.
 
-- "The quick brown fox jumps over lazy dog" (32 letters)
-- "Waltz, bad nymph, for quick jigs vex." (28 letters)
-- "Glib jocks quiz nymph to vex dwarf." (28 letters)
-- "Sphinx of black quartz, judge my vow." (29 letters)
-- "How quickly daft jumping zebras vex!" (30 letters)
-- "The five boxing wizards jump quickly." (31 letters)
-- "Jackdaws love my big sphinx of quartz." (31 letters)
-- "Pack my box with five dozen liquor jugs." (32 letters)
-- "Kæmi ný öxi hér, ykist þjófum nú bæði víl og ádrepa."
-- "Þá æfir stúlkan box eða hörpuslátt yfir jólin í Qoscow."
+Í stuttu máli virkar Grid sem **grind eða skapalón** fyrir vefsíðuna, þar sem þú skilgreinir dálka og raðir og setur síðan efnið (tögin) inn í þessi fyrirfram ákveðnu hólf til að búa til fagmannlegt og skipulagt útlit.

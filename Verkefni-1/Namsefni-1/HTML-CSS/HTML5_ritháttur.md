@@ -29,3 +29,12 @@ HTML er notað til að **skipuleggja strúktúr vefsíðunnar** og innihald henn
 
 **Samlíking til að einfalda málið:**
 Að nota þessi tög er eins og að skrifa **vandaða skýrslu með réttum fyrirsögnum, efnisgreinum og neðanmálsgreinum**. Ef þú myndir skrifa heila bók í einni langri málsgrein án kaflaheita, væri mjög erfitt fyrir lesandann (og leitarvélar eða hjálpartæki) að finna það sem skiptir máli. HTML5 tögin virka eins og skilti sem vísa veginn í gegnum efnið þitt.
+
+---
+
+### Bjargir
+
+* [HTML glósur](README.md)
+* [CSS, sjá nánari umfjöllun](stylesheet.md)
+* [Litir í vefsíðu](litir.md)
+* [Yfirlit yfir HTML skipanir (_HTML Cheat seets_)](https://cheatsheets.shecodes.io/html)

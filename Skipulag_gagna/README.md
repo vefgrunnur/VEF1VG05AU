@@ -1,0 +1,17 @@
+# Linux, macOS og Windows
+ <img src="svg/apple-svgrepo-com.svg" width="80" height="80"> <img src="svg/linux-svgrepo-com.svg" width="80" height="80"> <img src="svg/Microsoft-Windows.svg" width="80" height="80"> 
+
+
+> Stýrikerfi stjórnar því hvernig tölvan vinnur með skrár, möppur, forrit og tæki. Þótt macOS, Linux og Windows hafi sama grunnhlutverk eru þau ólík í uppsetningu, notendaviðmóti og sveigjanleika.
+
+## Helsti munur á stýrikerfunum
+
+- **macOS:** Samræmt notendaviðmót, sterkt vistkerfi með Apple-tækjum og góð innbyggð afritun (Time Machine).
+- **Windows:** Algengasta stýrikerfið á almennum tölvum, breiður stuðningur við hugbúnað og leiki, og samþætting við Microsoft-þjónustur.
+- **Linux:** Opinn hugbúnaður, mjög sveigjanlegt umhverfi, vinsælt í forritun og netþjónum, en getur krafist meiri tæknikunnáttu.
+
+## Skipulag gagna eftir stýrikerfi og .zip leiðbeiningar
+
+- <img src="svg/apple-svgrepo-com.svg" width="16" height="16"> [macOS: Skipulag gagna og .zip leiðbeiningar](./mac_OS/README.md)
+- <img src="svg/Microsoft-Windows.svg" width="16" height="16"> [Windows: Skipulag gagna og .zip leiðbeiningar](./Windows/README.md)
+- <img src="svg/linux-svgrepo-com.svg" width="16" height="16">  [Linux: Skipulag gagna og .zip leiðbeiningar](./Linux/README.md)

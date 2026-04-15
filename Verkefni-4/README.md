@@ -11,28 +11,38 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 - [Kóðadæmi með viðmiðum (_@media & breakpoints_) ](Namsefni-4/README.md)
 
-## 4.1 Sveigjanlegt dálkaskipulag, 1, 2, 4
 
-Afritaðu _Verkefni 3.2_ yfir í nýja möppu t.d. **Verkefni-4.1** og gerðu vefsíðuna sveigjanlega.  <br>
+
+Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**. 
+
+|Verkefni 3 | Verkefni 4 | Titill |
+|:---|:---|:---|
+| V.3.1 | (sleppa) | - |
+| V.3.2 (index) | > V.4.1 (index) | Jöfn dálkastærð |
+| V.3.2.2 | > V.4.1.2 | Dálkaskipulag `3fr 1fr 1fr` |
+| V.3.3 (index) | > V.4.2 (index) | Grid Area dálkaskipulag |
+
+## 4.1 Jöfn dálkastærð  
+
 Notaðu **_@media screen_** skipunina til að birta mismunandi skipulag eftir skjástærðum.
 
 * Viðmið: 0 – 599px,
   * allir dálkar með 100% breidd (_grid-template-columns:(1fr);_)
-* Viðmið: 48rem (768px – 959px)
+* Viðmið: 768px +
   * 2 og 4 dálkar með 50% breidd (_grid-template-columns:(1fr 1fr);_)
-* Viðmið: 60rem (960px - 1279px)
+* Viðmið: 960px +
   * 3 dálkar 33.33% breidd (_grid-template-columns:repeat(3, 1fr);_)
-* Viðmið: 80rem (1280px - 1599px)
+* Viðmið: 1280px +
   * 4 dálkar 25% breidd (_grid-template-columns:repeat(4, 1fr);_)
-* Viðmið: 100rem (1600px)
-  * Efni vefsíðunnar er miðjusett
+* Viðmið: 1600px
+  * Efni vefsíðunnar er miðjusett ` margin:auto `
  
 
 - [Sýnidæmi 4.1](Namsefni-4/Dæmi41.md)
 
 ---
 
-## 4.2 Sveigjanleg vefsíða með _"Grid-template-columns"_
+## 4.2 Dálkaskipulag með _"Grid-template-columns"_
 
 Afritaðu eina vefsíðu og stílsíðu úr verkefni 3.3 og vistaðu í nýja möppu sem þú getur nefnt **verkefni-42**. 
 
@@ -65,7 +75,7 @@ Nú er komið að gera vefsíðuna sveigjanlega. Notaðu CSS Grid til að hanna 
 
 - [Sýnidæmi 4.2](Namsefni-4/Dæmi42.md)
 
-## 4.3 Sveigjanleg vefsíða með _"Grid-template-area"_
+## 4.3 Dálkaskipulag með _"Grid-template-area"_
 
 Afritaðu vefsíðu 4.2 og stílsíðuna og notum **"grid template area** til að skipuleggja nýju vefsíðuna. 
 
@@ -106,7 +116,8 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
     .main {
       display: grid;
       grid-template-areas: 
-      "aside1 article article aside2";
+      "article article aside1";
+      "article article aside2";
     }
     ```
     

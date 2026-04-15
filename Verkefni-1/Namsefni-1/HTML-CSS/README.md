@@ -215,8 +215,7 @@ Eins og sjá má á kóðadæmunum hér fyrir ofan þá eru tög sem eru innan a
 
 ### Bjargir
 
-* [Verkefnalýsing 1](../../)
-* [Námsefni 1](../)
+* [HTML 5 ritháttur](HTML5_ritháttur.md)
 * [CSS, sjá nánari umfjöllun](stylesheet.md)
 * [Litir í vefsíðu](litir.md)
 * [Yfirlit yfir HTML skipanir (_HTML Cheat seets_)](https://cheatsheets.shecodes.io/html)

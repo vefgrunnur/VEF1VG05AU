@@ -1,5 +1,7 @@
 # Verkefni VEFÞ1VG05A
 
+> [VEFÞ105AU Assignment descriptions in english](VEF1VG05AU-English/README.md)
+
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
 1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
@@ -10,36 +12,40 @@
 
 ### Námsáætlun
 
-### 2026 vor, spönn 1. 
+### 2026 vor, spönn 2. 
 
 | Vika  | Verkefni  | Nr. | Vægi |
 |---|---|---|---|
-| 2 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
-| 3 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
-| 4 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
-| - | Stöðumat, próf | 1, 2, 3 | 20 |
-| 5 | Svegjanleg vefhönnun (_Mobile up_) | 4  | 5 | 
-| 6 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
-| 7 | Myndvinnsla | 6 | 5 | 
-| - | Stöðumat, próf  _**Lykilmatsþáttur**_ | 4, 5, 6 | 25 |
-| 8 | Lokaverkefni. Video, audio & iframe |  7 |  |
-| 9 | Lokaverkefni.  | 7 | 25 |
-| 10 | _Námsmat_ | Samtals | 100 |
+| 11 | Uppsetning vefþróunarsvæðis <br> HTML og CSS | 1  | 5 | 
+| 12 | Box módelið og eiginleikar taga (_display:_) | 2 | 5 | 
+| 13 | Skipulag vefsíðu (_Grid & Flex_) | 3  | 5 | 
+| -  | **Stöðupróf** | 1, 2, 3 | 20 |
+| 14 | Páskafrí |  |  | 
+| 15 | Svegjanleg vefhönnun (_Mobile up_) | 4  |  | 
+| 16 | Svegjanleg vefhönnun (_Mobile up_) | 4  | 5 | 
+| 17 | Letur- og litaval.<br> Leiðakerfi og staðsetning taga | 5  | 5 |
+| 18 | Myndvinnsla | 6 | 5 | 
+| -  | **_Stöðupróf - lykilmatsþáttur_** | 4, 5, 6 | 25 |
+| 19 | Lokaverkefni. Video, audio & iframe |  7 |  |
+| 20 | Lokaverkefni.  | 7 | 25 |
+| 21 | Síðasti kennsludagur 18/05. _Námsmat_ | Samtals | 100 |
 
 ---
 
-### Vikuáætlun spönn 1
+### Vikuáætlun 
 
 | Vika | Tími 1  | Tími 2 | Tími 3 | Tími 4 | 
 | --- | --- | --- | --- | --- | 
-| 2 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
-| 3 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | Grid svæði  | 
-| 4 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar |  **Stöðumat**  |   
-| 5 | Sveiganleg hönnun | Dálkaskipting | - | Efnisyfirlit | 
-| 6 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
-| 7 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
-| 8 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
-| 9 - 10 | Lokaverkefni, frágangur | uppsetning á internetið |  _Verkefnaskil 04.03. <br> Kl. 23:59 (deadline)_ | ~ |
+| 11 | Vefþróunarsvæði sett upp í [Visual Studio Code](https://code.visualstudio.com/) | HTML tög |  CSS stílar  | Box modelið, _display: inline - block_ | 
+| 12 | Float | HTML5 ritháttur  | Hulduklasar (_pseudo classes_) | Grid svæði  | 
+| 13 | Flexbox skipulag | Flex,  efnisyfirlit | Grid dálkar |  **Stöðumat**  |   
+| 15 - 16 | Sveiganleg hönnun | Dálkaskipting | - | Efnisyfirlit | 
+| 17 | Leturval, fonts.google  | Litaval og bakgrunnar | Leiðakerfi (_Navigation_) | Staðsetning taga <br> (_positioning elements_) | 
+| 18 | Myndvinnsla í Photopea | Unnið með mismunandi stærðir &lt;picture> | Mynd með gagnsæjum grunni  | **Stöðumat** |        
+| 19 | Lokaverkefni, hönnun vefs | Video | Audio | Landakort í _iframe_ |
+| 20 -21 | Lokaverkefni, frágangur | uppsetning á internetið |  Verkefnaskil 18/05.  | Kl. 23:59 (deadline) |
+
+---
  
 ### Námsmat
 
@@ -56,6 +62,8 @@
 ---
 
 #### [Undirbúningur og kennslufyrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
+
+#### [Yfirlit verkefna og þau útskýrð í máli og myndum](https://vefgrunnur.github.io/video/) - NÝTT EFNI!
 
 #### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
 

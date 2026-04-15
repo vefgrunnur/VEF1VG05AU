@@ -5,7 +5,7 @@ Mjög gott getur verið að hafa tengla sem vísa á ákveðinn hluta innan vefs
 Í HTML er þetta gert með ID eigindinu. 
 
 ```HTML
-    <body id =“top“ >Efst á síðu</a>
+    <body id =“top“>
 ```
 
 ID eigindið sem geymir hina eiginlegu tilvísun á ákveðna staðsetningu í skjalinu. Vafrinn notar # táknið til að finna ID skilgreininguna.
