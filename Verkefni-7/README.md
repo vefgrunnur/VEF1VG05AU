@@ -37,7 +37,7 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 > Ef video á Youtube er með auglýsingum þá birtist það ekki í iframe á _localhost_. Vafrinn leyfir það ekki. Vidóið spilar samt sem áður á internetinu. 
 
-### Lokaverkefni 25%
+### Lokaverkefni námsmat 25%
 
 * 4% Vefsíðan er svegjanleg og efni síðunnar birtist eðlilega í helstu skjástærðum 
 * 3% Texti, umföllun um hljómsveit eða tónlistarmann (_frjálst efnisval_).
