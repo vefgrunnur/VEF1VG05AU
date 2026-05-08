@@ -81,3 +81,36 @@ body {
 }
 
 ```
+
+## Línulengd texta og lesskilningur
+
+Þegar kemur að góðri lestrarupplifun á skjá eða á prenti, þá er línulengdin (fjöldi stafa í hverri línu) einn mikilvægasti þátturinn. Ef línurnar eru of langar þreytist augað á að finna næstu línu, en séu þær of stuttar rofnar takturinn við það að augað þarf sífellt að hoppa vinstra megin aftur.
+
+Hér eru viðurkennd viðmið fyrir bestu lestrarupplifunina:
+
+### Gullna reglan
+
+* **Ákjósanleg lengd:** 45 til 75 stafir (með bilum).
+* **Fullkomin miðja:** Um **66 stafir** á línu er oft talið „hinn fullkomni staður“ fyrir samfellt lesmál.
+
+---
+
+### Viðmið eftir miðlum
+
+| Miðill | Ráðlögð línulengd | Af hverju? |
+| --- | --- | --- |
+| **Prentmál** | 45–75 stafir | Hefðbundnar bækur og tímarit fylgja þessu til að halda einbeitingu lesandans. |
+| **Vefsíður (skjár)** | 50–80 stafir | Skjáir þola örlítið lengri línur en prent, en farið yfir 100 stafi fer fólk að „skanna“ textann í stað þess að lesa hann. |
+| **Snjallsímar** | 30–45 stafir | Vegna þrengra pláss er línan styttri til að textinn verði ekki of smár og ólæsilegur. |
+
+---
+
+### Af hverju skiptir þetta máli?
+
+* **Vöðvaþreyta í augum:** Ef línan er of löng þarf augað að hreyfa sig meira en eðlilegt þykir. Þegar komið er að enda línunnar á lesandinn erfitt með að fókusera á rétta línu vinstra megin.
+* **Hraði og skilningur:** Stuttar og hnitmiðaðar línur hjálpa heilanum að vinna úr upplýsingum hraðar.
+* **Sálfræðileg áhrif:** Of langar línur geta virkað yfirþyrmandi á lesandann áður en hann byrjar, á meðan hæfileg lengd virkar aðgengileg og „létt“.
+
+> **Pro-tip:** Ef þú ert að hanna vefsíðu er gott að nota CSS-skipunina `max-width: 70ch;` á textablokkir. Það takmarkar breiddina við um það bil 70 stafi, óháð skjástærð.
+
+Hvað finnst þér sjálfum þægilegast – viltu hafa textann frekar þröngan eða finnst þér gott að nýta alla breiddina á skjánum?
