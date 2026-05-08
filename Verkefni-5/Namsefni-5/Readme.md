@@ -53,6 +53,7 @@ body {
     font:normal 500 1rem/1.5 Helvetica, sans-serif;
     /*font-style, -weight, -size/-lineheight -family */
 }
+```
 
 ## Línulengd texta og lesskilningur
 
@@ -87,7 +88,7 @@ Hér eru viðurkennd viðmið fyrir bestu lestrarupplifunina:
 
 Hvað finnst þér sjálfum þægilegast – viltu hafa textann frekar þröngan eða finnst þér gott að nýta alla breiddina á skjánum?
 
-```
+---
 
 ### Bakgrunnsmynd í vefsíðu
 
