@@ -54,34 +54,6 @@ body {
     /*font-style, -weight, -size/-lineheight -family */
 }
 
-
-```
-
-### Bakgrunnsmynd í vefsíðu
-
-Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flóknar og litríkar ljósmyndir. Best að sleppa þeim eða notast við hlutlausa fleti. Góð lausn er að nota [bakgrunnslitaskala](https://www.w3schools.com/css/css3_gradients.asp).
-
-
-```CSS
-
-body {
-    background-color: #6ff;
-    background-image:url(flott-logo.svg);
-    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
-    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
-    background-position: center middle;
-    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
-    background-attachment: fixed; /* scroll */	
-}
-/* allar bakgrunns-skipanir í einni */
-body {			
-	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
-            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
-
-}
-
-```
-
 ## Línulengd texta og lesskilningur
 
 Þegar kemur að góðri lestrarupplifun á skjá eða á prenti, þá er línulengdin (fjöldi stafa í hverri línu) einn mikilvægasti þátturinn. Ef línurnar eru of langar þreytist augað á að finna næstu línu, en séu þær of stuttar rofnar takturinn við það að augað þarf sífellt að hoppa vinstra megin aftur.
@@ -114,3 +86,32 @@ Hér eru viðurkennd viðmið fyrir bestu lestrarupplifunina:
 > **Pro-tip:** Ef þú ert að hanna vefsíðu er gott að nota CSS-skipunina `max-width: 70ch;` á textablokkir. Það takmarkar breiddina við um það bil 70 stafi, óháð skjástærð.
 
 Hvað finnst þér sjálfum þægilegast – viltu hafa textann frekar þröngan eða finnst þér gott að nýta alla breiddina á skjánum?
+
+```
+
+### Bakgrunnsmynd í vefsíðu
+
+Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flóknar og litríkar ljósmyndir. Best að sleppa þeim eða notast við hlutlausa fleti. Góð lausn er að nota [bakgrunnslitaskala](https://www.w3schools.com/css/css3_gradients.asp).
+
+
+```CSS
+
+body {
+    background-color: #6ff;
+    background-image:url(flott-logo.svg);
+    background-repeat: no-repeat;     /* repeat-x eða repeat-y */
+    background-position: 200px 300px; /* föst staðsetning frá vinstra horni efst */
+    background-position: center middle;
+    /* X lárétt: left, center, right. Y lóðrétt: top, middle, bottom */
+    background-attachment: fixed; /* scroll */	
+}
+/* allar bakgrunns-skipanir í einni */
+body {			
+	background: rgb(3,3,3) url(image.jpg) 0px -5px scroll no-repeat;
+            /*  litur,   mynd,  staðsetning X-Y,  fixed,  repeat -x -y */
+
+}
+
+```
+
+
