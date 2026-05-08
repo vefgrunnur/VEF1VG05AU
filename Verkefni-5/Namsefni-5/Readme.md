@@ -92,7 +92,7 @@ Hvað finnst þér sjálfum þægilegast – viltu hafa textann frekar þröngan
 
 ### Bakgrunnsmynd í vefsíðu
 
-Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flóknar og litríkar ljósmyndir. Best að sleppa þeim eða notast við hlutlausa fleti. Góð lausn er að nota [bakgrunnslitaskala](https://www.w3schools.com/css/css3_gradients.asp).
+Þar sem meirihluti vafranotkunar er á farsímaskjáum þá ber að forðast flóknar og litríkar ljósmyndir undir texta. Best að sleppa þeim eða notast við hlutlausa fleti. Góð lausn er að nota [bakgrunnslitaskala](https://www.w3schools.com/css/css3_gradients.asp).
 
 
 ```CSS
