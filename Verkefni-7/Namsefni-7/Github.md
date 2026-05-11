@@ -6,14 +6,27 @@
 
 ---
 
-# Uppsetning vefsíðu á (notandi).github.io  
+# Uppsetning vefsíðu á (notandi/username).github.io  
 
 Github býður viðskiptavinum sínum að búa til vef sem tengist reikningi þeirra. Eina sem þarf að gera er að virkja veftenginguna í Github notendastillingum (Settings). 
 
 dæmi:  
-1.	Notendanafn (_Username_) á Gitub reikningi: **Notandi** 
-1.	heiti geymslu (_Repository_): **notandi.github.io**
-1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**, þar velur þú `Branch`: **_Main_**. 
+1.	Búðu til geymslu (_Repository_) með þínu notendanafni (_Username_)    
+   ![repo](images/newRepository.jpg)
+1.	nefndu geymluna með þínu **notendanafni**
+   ![repo name](images/repoName.jpg)
+1. Hakaðu við **"Add README"** neðar á síðunni
+   ![add redme](images/addReadme.jpg)
+1. Neðst á síðunni þarf að stofna geymsluna með því að smella á **"Create Repository"**
+   ![create repo](images/createRepo.jpg)
+1. Þá ertu komin/n með geymslu þar sem hægt er að skila lokaverkefninu
+   ![repo](images/demo26.jpg)
+1. Til að hlaða inn efni vefsins þá smellir þú á [+] hnappinn og velur **"upload files**
+   ![upload](images/uploadWeb.jpg)
+   Veldu allt efnið sem á að birta á vefnum en ekki möppuna
+1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**,
+
+1. þar velur þú `Branch`: **_Main_**. 
 1.	Github býr til tengingu á milli geymslunnar og vefhýsingarinnar á github.io 
 1.	Nú getur þú birt verkefnin þín á eigin vefsíðu.
 
