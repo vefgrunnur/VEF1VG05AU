@@ -31,11 +31,10 @@ dæmi:
 
 ### Vefur birtur á internetinu
 
-1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**,
-
-1. þar velur þú `Branch`: **_Main_**. 
+1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**, þar velur þú `Branch`: **_Main_** og vistar (_save_) aðgerðina.
+   ![port 80](images/setupPort.jpg)
 1.	Github býr til tengingu á milli geymslunnar og vefhýsingarinnar á github.io 
-1.	Nú getur þú birt verkefnin þín á eigin vefsíðu.
+1.	Eftir skamma stund getur endurhlaðið (_reload_) umsjónarkerfið og birtist slóðin að eigin vefnum þínum.
 
 ---
 
@@ -48,9 +47,7 @@ Ef við viljum búa til undirlén (_subdomain_) sem er með öðru skipulagi og 
 1. Stofnaðu geymslu og nefndu hana nafni verkefnisins sem þú ætlar að birta
     * ![mynd 1.](images/mynd1.jpg)
     * Heiti geymslunnar má **ekki** vera með íslenskum stöfum eða með bil í nafninu
-1. Náðu í geymsluna `$ git clone ` og settu vefinn sem þú ætlar að birta í geymsluna. 
-1. Uppfærðu geymsluna á Github.com `$ git push `
-    * ![mynd 2.](images/mynd3.jpg)
+1. Notaðu sömu aðferð við að hlaða inn gögnum í geymsluna.
 1. Efst í geymslunni á Github.com er valslá, veldu _Settings_ og síðan _Pages_ úr hliðardálknum
     * ![mynd 3.](images/mynd4.jpg)
 1. Hér getur þú valið geymsluna sem rót á undirléni
