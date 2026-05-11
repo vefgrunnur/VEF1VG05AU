@@ -35,6 +35,7 @@ dæmi:
    ![port 80](images/setupPort.jpg)
 1.	Github býr til tengingu á milli geymslunnar og vefhýsingarinnar á github.io 
 1.	Eftir skamma stund getur endurhlaðið (_reload_) umsjónarkerfið og birtist slóðin að eigin vefnum þínum.
+   ![vefur ok](images/webOK.jpg)
 
 ---
 
