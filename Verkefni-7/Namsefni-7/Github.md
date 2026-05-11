@@ -26,6 +26,11 @@ dæmi:
    Veldu allt efnið sem á að birta á vefnum sem er í verkefnamöppunni _en ekki möppuna sjálfa_
 1. Neðst á síðunni þarf að senda gögnin með því að smella á **"Commit Changes"**
    ![commit](images/commitChanges.jpg)
+1. Þá er efni vefsins komið í geymsluna
+   ![ok](images/demoRepo26.jpg)
+
+### Vefur birtur á internetinu
+
 1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**,
 
 1. þar velur þú `Branch`: **_Main_**. 
