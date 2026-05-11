@@ -9,7 +9,8 @@ git config --global user.name "þittnotendanafn"
 git config --global user.email þitt@email.is
 
 ```
-* Það er hægt að vinna verkefni beint í Github geymslunni en það er ekki skynsamlegt.  Best er að afrita verkefnageymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.  [Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
+* Það er hægt að skrifa html í Github geymslunni en það eru þá smá breytingar.  
+* Best er að afrita geymsluna yfir á þína tölvu, vinna verkefnin og skila síðan jafnóðum.  [Náðu í geymsluna yfir í þína tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)
 
 ```
 
