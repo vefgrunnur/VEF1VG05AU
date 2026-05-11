@@ -23,7 +23,9 @@ dæmi:
    ![repo](images/demo26.jpg)
 1. Til að hlaða inn efni vefsins þá smellir þú á [+] hnappinn og velur **"upload files**
    ![upload](images/uploadWeb.jpg)
-   Veldu allt efnið sem á að birta á vefnum en ekki möppuna
+   Veldu allt efnið sem á að birta á vefnum sem er í verkefnamöppunni _en ekki möppuna sjálfa_
+1. Neðst á síðunni þarf að senda gögnin með því að smella á **"Commit Changes"**
+   ![commit](images/commitChanges.jpg)
 1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**,
 
 1. þar velur þú `Branch`: **_Main_**. 
