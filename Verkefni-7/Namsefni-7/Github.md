@@ -19,9 +19,16 @@ dæmi:
    ![add redme](images/addReadme.jpg)
 1. Neðst á síðunni þarf að stofna geymsluna með því að smella á **"Create Repository"**
    ![create repo](images/createRepo.jpg)
+1. Github býr til Geymslu sem er með README.md skrá. Þessi skrá er birt sem forsíða á reikningnum þínum.
+   ![readme forsíða](images/github-account.jpg)
 
-Github býr til Geymslu sem er með README.md skrá. Þessi skrá er birt sem forsíða á reikningnum þínum.
-   
+---
+
+### Geymsla fyrir lokaverkefni VEFÞ1VG
+
+1. Stofnaðu geymslu og nefndu hana nafni verkefnisins sem þú ætlar að birta
+    * Heiti geymslunnar má **ekki** vera með íslenskum stöfum eða með bil í nafninu
+    ![demo](images/demo-26.jpg)
 1. Þá ertu komin/n með geymslu þar sem hægt er að skila lokaverkefninu
    ![repo](images/demo26.jpg)
 1. Til að hlaða inn efni vefsins þá smellir þú á [+] hnappinn og velur **"upload files**
@@ -39,27 +46,10 @@ Github býr til Geymslu sem er með README.md skrá. Þessi skrá er birt sem fo
 1.	Github býr til tengingu á milli geymslunnar og vefhýsingarinnar á github.io 
 1.	Eftir skamma stund getur endurhlaðið (_reload_) umsjónarkerfið og birtist slóðin að vefnum þínum.
    ![vefur ok](images/webOK.jpg)
+   
+#### [Dæmi um undirlén](https://vefgrunnur.github.io/badbunny)
 
 ---
-
-## Undirlén (_Subdomain_)
-
-Ef við viljum búa til undirlén (_subdomain_) sem er með öðru skipulagi og útliti en er á _notandi.github.io_ þá er það tiltölulega einfalt mál. 
-
-#### Dæmi
-
-1. Stofnaðu geymslu og nefndu hana nafni verkefnisins sem þú ætlar að birta
-    * Heiti geymslunnar má **ekki** vera með íslenskum stöfum eða með bil í nafninu
-1. Notaðu sömu aðferð við að hlaða inn gögnum í geymsluna eins og sýnt er hér fyrir ofan.
-   ![mynd 3.](images/mynd4.jpg)
-1. Eftir smá stund (2-3 mínútur) getur þú endurhlaðið (_refresh_)  Settings síðuna
-    * ![mynd 4.](images/mynd5.jpg)
-1. smelltu á tengilinn og skoðaðu vefinn inn
-    * ![mynd 5.](images/mynd6.jpg)
-
-
-#### [Dæmi um undirlén](https://vefhonnun.github.io/sea-sport-travel/)
-
 
 ## Verkefnavinna með GIT
 
