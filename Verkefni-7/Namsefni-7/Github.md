@@ -19,6 +19,9 @@ dæmi:
    ![add redme](images/addReadme.jpg)
 1. Neðst á síðunni þarf að stofna geymsluna með því að smella á **"Create Repository"**
    ![create repo](images/createRepo.jpg)
+
+Github býr til Geymslu sem er með README.md skrá. Þessi skrá er birt sem forsíða á reikningnum þínum.
+   
 1. Þá ertu komin/n með geymslu þar sem hægt er að skila lokaverkefninu
    ![repo](images/demo26.jpg)
 1. Til að hlaða inn efni vefsins þá smellir þú á [+] hnappinn og velur **"upload files**
