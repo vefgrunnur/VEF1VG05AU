@@ -1,3 +1,5 @@
+# Uppbygging vefsíðu, DOM
+
 Tráskipan vefsíðu, sem oft er kölluð **DOM (Document Object Model)**, virkar eins og rökrétt ættartré þar sem hver eining í HTML-kóðanum á sinn ákveðna stað í stigveldinu.
 
 Hér er nánari útlistun á því hvernig þetta „ættartré“ er uppbyggt samkvæmt heimildunum:
