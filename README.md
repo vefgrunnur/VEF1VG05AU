@@ -10,6 +10,7 @@
 1. verkefni. [Myndvinnsla](Verkefni-6/)
 1. verkefni. [Innsetning miðla (API)](Verkefni-7/README.md) 
 
+<!-- efni sem er eingögnu uppfært í Canvas
 ### Námsáætlun
 
 ### 2026 vor, spönn 2. 
@@ -62,6 +63,8 @@
 ---
 
 #### [Undirbúningur og kennslufyrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
+
+-->
 
 #### [Yfirlit verkefna og þau útskýrð í máli og myndum](https://vefgrunnur.github.io/video/) - NÝTT EFNI!
 
