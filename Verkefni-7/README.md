@@ -36,7 +36,7 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 * [Sýnidæmi á Github](https://vefgrunnur.github.io/synidaemi/)
 
 > Ef video á Youtube er með auglýsingum þá birtist það ekki í iframe á _localhost_. Vafrinn leyfir það ekki. Vidóið spilar samt sem áður á internetinu. 
-
+<!-- canvas 
 ### Lokaverkefni námsmat 25%
 
 * 4% Vefsíðan er svegjanleg og efni síðunnar birtist eðlilega í helstu skjástærðum 
@@ -57,7 +57,8 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 _Gangi þér vel_
 
----
+-->
+### Bjargir
 
 #### Tónlist og hljóð 
 
