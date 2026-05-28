@@ -66,7 +66,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 ```
 
 ---
-
+<!-- canvas 
 ### Námsmat 5%
 
 -	Skipting fosíðumyndar eftir skjástærðum
@@ -82,7 +82,7 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 #### Einkunn verður birt í Innu
 
----
+-->
 
 #### Myndvinnsla
 
