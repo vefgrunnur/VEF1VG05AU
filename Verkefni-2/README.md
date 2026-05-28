@@ -12,7 +12,7 @@ Nemendur geta:
 
 ---
 
-**Uppbygging vefsíðu, DOM _(Document Object Model)_** er hvernig vafrinn túlkar og skipuleggur innihald HTML-skjalsins sem **ættartré**. Þetta líkan er undirstaðan fyrir því hvernig vefsíður eru birtar og hvernig hægt er að eiga við þær með forritun.
+**Uppbygging vefsíðu, DOM _(Document Object Model)_** er hvernig vafrinn túlkar og skipuleggur innihald HTML-skjalsins sem [**ættartré**](Námsefni/DOM.md). Þetta líkan er undirstaðan fyrir því hvernig vefsíður eru birtar og hvernig hægt er að eiga við þær með forritun.
 
 Hér eru helstu atriðin um hvernig þessi uppbygging virkar í vafranum:
 
