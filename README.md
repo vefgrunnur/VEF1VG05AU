@@ -60,9 +60,11 @@
 
 ---
 
+-->
+
 #### [Undirbúningur og kennslufyrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
 
--->
+
 
 #### [Yfirlit verkefna og þau útskýrð í máli og myndum](https://vefgrunnur.github.io/video/) - NÝTT EFNI!
 
