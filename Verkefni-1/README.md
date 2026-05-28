@@ -82,7 +82,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
   a:active {skipun:gildi;}
 
 ```
-
+<!-- canvas stöff
 ### Námsmat 5% af heildareinkunn
 
 - 1.1 HTML vefsíða
@@ -93,4 +93,4 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 - Setjið verkefnið í **.zip skrá** og skilið í INNU/verkefni/verkefni-1.
 
 #### Einkunn verður birt í Innu
-
+-->
