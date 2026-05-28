@@ -1,16 +1,26 @@
-# HTML og CSS
+# Uppbygging vefsíðu í vafra
 
 ### Markmið:
 
 Nemendur geta:
 
-- skilið hvernig box módelið virkar 
+- skilið hvernig box módelið virkar í vafra
 - breytt eiginleikum taga með _display:_ 
 - sett mynd með texta, _float_
 - ritað vefsíður í HTML5 rithætti (_HTML5 Semantics_)
 - stílað leyniklasa (_pseudo classes_) á tög 
 
 ---
+
+**Uppbygging vefsíðu, DOM _(Document Object Model)_** er hvernig vafrinn túlkar og skipuleggur innihald HTML-skjalsins sem **ættartré**. Þetta líkan er undirstaðan fyrir því hvernig vefsíður eru birtar og hvernig hægt er að eiga við þær með forritun.
+
+Hér eru helstu atriðin um hvernig þessi uppbygging virkar í vafranum:
+
+*   **Stigveldi eininga (Nodes):** Vafrinn breytir hverju HTML tagi í „hnút“ (node) í trénu. Efst er skjalið sjálft, og undir því raðast einingarnar eftir því hvernig þær eru hreiðraðar (nested) í kóðanum. Þetta þýðir að tög eins og `<body>` innihalda önnur tög eins og fyrirsagnir (`<h1>`-`<h6>`), málsgreinar (`<p>`) og lista (`<ul>`, `<ol>`) í rökréttu stigveldi.
+*   **Gagnvirkt viðmót (API):** DOM virkar sem forritunarviðmót (**HTML DOM API**) sem gerir **JavaScript** kleift að eiga samskipti við síðuna. Með því að nota DOM getur JavaScript breytt strúktúrnum, stílum eða innihaldi síðunnar í rauntíma, til dæmis þegar smellt er á hnappa eða gögn slegin inn í eyðublöð.
+*   **Skoðun í vafra (Inspector):** Þú getur skoðað DOM-uppbygginguna beint í hvaða nútíma vafra sem er með því að nota **Inspector/Element gluggann**. Þar má sjá nákvæmlega hvernig vafrinn hefur túlkað HTML kóðann og hvernig CSS stílar eins og **Box-módelið** (padding, border, margin) hafa áhrif á hverja einingu.
+
+Í stuttu máli er HTML kóðinn sjálfur teikningin að síðunni, en DOM er **lifandi útfærsla vafrans á þeirri teikningu**, sem gerir vefsíðuna gagnvirka og sýnilega notandanum.
   
 ### 2.1 Box módelið
 
