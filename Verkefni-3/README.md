@@ -42,7 +42,7 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 - [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/README.md)
 
 ---
-
+<!-- canvas 
 ### Námsmat 5% af heildareinkunn
 
 - 3.1 Flex raðir og dálkar
@@ -54,3 +54,4 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 - Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 3 í Innu
 
 #### Einkunn verður birt í Innu
+-->
