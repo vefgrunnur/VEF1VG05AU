@@ -134,13 +134,13 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 - [Sýnidæmi 4.3](Namsefni-4/Dæmi43.md)
 
 ---
-<!-- canvas 
+canvas 
 #### Námsmat 5%
 
 * **4.1 Dálkar með viðmiðum**
 * **4.2 Grid template columns**
 * **4.3 Grid template area**
-* Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
+* **Efnisyfirlit** (nav) á vefsíðum á að vera svegjanlegt með _display:flex_
 
 ### Verkefnaskil
 
