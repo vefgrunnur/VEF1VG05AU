@@ -134,7 +134,7 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 - [Sýnidæmi 4.3](Namsefni-4/Dæmi43.md)
 
 ---
-
+<!-- canvas 
 #### Námsmat 5%
 
 * **4.1 Dálkar með viðmiðum**
@@ -147,3 +147,4 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 - Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 4 í Innu
 
 #### Einkunn verður birt í Innu
+-->
