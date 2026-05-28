@@ -60,7 +60,7 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
   a:link, a:visited, a:hover, a:active 
 
 ```
-
+<!-- canvas 
 ### Námsmat 5% af heildareinkunn
 
 - 2.1 Box módelið 
@@ -74,4 +74,4 @@ Setjið tengla (_links_) í NAV tagið efst í vefsíðunni sem þú varst að b
 - Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 2 í Innu
 
 #### Einkunn verður birt í Innu
-
+-->
