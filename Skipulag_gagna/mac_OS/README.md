@@ -57,9 +57,9 @@
 
 Gott skipulag gagna í macOS byggist á þremur atriðum: rétt flokkun í möppur, skýr heiti og regluleg afritun. Með þessu vinnulagi verður auðveldara að finna gögn, minnka líkur á ruglingi og vernda mikilvægar upplýsingar.
 
-## Verlefnaskil í Innu
+## Verkefnaskil í Canvas
 
-#### Öllum verkefnum á að skila í Innu 
+#### Öllum verkefnum á að skila í Canvas
 
 Dæmi: öll gögn í verkefni 1 er í einni möppu sem er þjöppuð í **.zip skrá**
 
