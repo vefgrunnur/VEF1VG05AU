@@ -37,7 +37,7 @@ Undir fyrirsagnirnar settu línu &lt;HR> og búðu til lista &lt;UL> í html sí
 ![display settings](Námsefni/images/display.JPG)
 
 
-### 2.2 CSS "_Float_" 
+### 2.3 CSS "_Float_" 
 
 Búðu til vefsíðu inniheldur „dummy“ texta sem þú átt að fjölfalda og raða upp eins og sýnt er hér á myndinni.
 
