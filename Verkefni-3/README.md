@@ -39,7 +39,8 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
     <nav> <header> <main> <article> <aside> <footer> 
 ```
 
-- [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/README.md)
+- [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/daemi-32/README.md)
+  
 
 ---
 <!-- canvas 
