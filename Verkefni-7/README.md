@@ -32,7 +32,7 @@ Nemendur geta:
 Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
-* [Uppsetning vefs á Internetið - Github.io](Namsefni-7/uppsetning-github.io/)
+* [Uppsetning vefs á Internetið - Github.io](Namsefni-7/Github.md/)
 * [Sýnidæmi á Github](https://vefgrunnur.github.io/synidaemi/)
 
 > Ef video á Youtube er með auglýsingum þá birtist það ekki í iframe á _localhost_. Vafrinn leyfir það ekki. Vidóið spilar samt sem áður á internetinu. 
