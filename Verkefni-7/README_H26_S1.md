@@ -22,7 +22,7 @@ Nemendur geta búið til vefsíðu:
 1. Umfjöllun um Gullna hringinn eða annað efni sem þú hefur áhuga á
     * Efnistökin eru valfrjáls (_má vera á ensku_)
     * Notið myndir
-1. Á forsíðu skal birta grunnupplýsingar um helstu staði Gullna hringsins ( einn staður í hverju boxi t.d. '''<div>''' eða '''<section>''' eða '''<aside>''' ) með mynd.  
+1. Á forsíðu skal birta grunnupplýsingar um helstu staði Gullna hringsins ( einn staður í hverju boxi t.d. &lt;div&gt; eða '''<section>''' eða '''<aside>''' ) með mynd.  
     * Í þessu boxi skal vera hlekkur sem leiðir okkur á undirsíðu með nánari / frekari upplýsingum um staðinn.
     * Þegar forsíðan er skoðuð á litlum skjá / farsímaskjá skulu myndir hverfa á forsíðunni.
 1. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
