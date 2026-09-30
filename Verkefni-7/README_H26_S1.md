@@ -36,7 +36,7 @@ Nemendur geta búið til vefsíðu:
 Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
-* [Uppsetning vefs á Internetið - Github.io](Namsefni-7/uppsetning-github.io/)
+* [Uppsetning vefs á Internetið - Github.io]([Namsefni-7/uppsetning-github.io/](https://github.com/vefgrunnur/VEF1VG05AU/blob/main/Verkefni-7/Namsefni-7/Github.md#uppsetning-vefs%C3%AD%C3%B0u-%C3%A1-notandiusernamegithubio))
 * [Sýnidæmi á Github](https://vefgrunnur.github.io/synidaemi/)
 
 <!-- canvas 
