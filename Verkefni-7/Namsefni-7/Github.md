@@ -41,7 +41,7 @@ dæmi:
 
 ### Vefur birtur á internetinu
 
-1.	Í notandi.github.io geymslunni -> valslá -> **Settings** -> **Pages**, þar velur þú `Branch`: **_Main_** og vistar (_save_) aðgerðina.
+1.	Í notandi.github.io/**demo26** geymslunni -> valslá -> **Settings** -> **Pages**, þar velur þú `Branch`: **_Main_** og vistar (_save_) aðgerðina.
    ![port 80](images/setupPort.jpg)
 1.	Github býr til tengingu á milli geymslunnar og vefhýsingarinnar á github.io 
 1.	Eftir skamma stund getur endurhlaðið (_reload_) umsjónarkerfið og birtist slóðin að vefnum þínum.
