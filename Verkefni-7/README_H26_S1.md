@@ -1,4 +1,4 @@
-# Íhlutir (API)
+# Lokaverkefni
 
 ### Markmið:
 
