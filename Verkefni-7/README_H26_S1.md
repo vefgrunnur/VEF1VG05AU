@@ -13,7 +13,8 @@ Nemendur geta búið til vefsíðu:
 
 #### Verklýsing
 
-* Búðu til vefsíðu sem fjallar um Gullna hringinn og helstu staði hringsins ( Gljúfrasteinn / Þingvellir / Gullfoss / Geysir / Skálholt / Kerið ). 
+* Búðu til vefsíðu sem fjallar um Gullna hringinn og helstu staði hringsins ( Gljúfrasteinn / Þingvellir / Gullfoss / Geysir / Skálholt / Kerið ).
+  * Lágmarkið er 3 undirsíður út frá forsíðu. 
   * Uppsetning vefsíðunnar er í þínum höndum. 
 * Ef þú vilt máttu hafa annað umfjöllunarefni á vefsíðunni.
 
