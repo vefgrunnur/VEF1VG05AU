@@ -13,28 +13,29 @@ Nemendur geta búið til vefsíðu:
 
 #### Verklýsing
 
-* Búðu til vefsíðu sem fjallar um Gullna hringinn og helstu staði hringsins ( Gljúfrasteinn / Þingvellir / Gullfoss / Geysir / Skálholt / Kerið ).
+* Búðu til vefsíðu sem fjallar um Gullna Hringinn og helstu staði hringsins ( Gljúfrasteinn / Þingvellir / Gullfoss / Geysir / Skálholt / Kerið ).
   * Lágmarkið er 3 undirsíður út frá forsíðu. 
-  * Uppsetning vefsíðunnar er í þínum höndum. 
-* Ef þú vilt máttu hafa annað umfjöllunarefni á vefsíðunni.
+  * Uppsetning vefsíðnanna er í þínum höndum. 
+* Ef þú vilt máttu hafa annað umfjöllunarefni á vefsíðunum.
 
-Í vefsíðunni eiga að vera eftirfarandi atriði
+Á vefsíðunum eiga að vera eftirfarandi atriði:
 
-1. Umfjöllun um Gullna hringinn eða annað efni sem þú hefur áhuga á
+1. Umfjöllun um Gullna Hringinn eða annað efni sem þú hefur áhuga á
     * Efnistökin eru valfrjáls (_má vera á ensku_)
     * Notið myndir
-1. Á forsíðu skal birta grunnupplýsingar um helstu staði Gullna hringsins ( einn staður í hverju boxi t.d. &lt;div&gt; eða &lt;section&gt; eða &lt;aside&gt; ) með mynd.  
+2. Á forsíðu skal birta grunnupplýsingar um helstu staði Gullna hringsins ( einn staður í hverju boxi t.d. &lt;div&gt; eða &lt;section&gt; eða &lt;aside&gt; ) með mynd.  
     * Í þessu boxi skal vera hlekkur sem leiðir okkur á undirsíðu með nánari / frekari upplýsingum um staðinn.
     * Þegar forsíðan er skoðuð á litlum skjá / farsímaskjá skulu myndir hverfa á forsíðunni.
-1. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
+3. Settu inn kort af [maps.google.com]() á vefsíðuna sem vísar á einhvern stað sem fjallað er um í inngangstextanum. 
    * Ef það er hentar ekki þá má setja kortið í footer ásamt upplýsingum um þig og kortið vísar á Tækniskólann á Háteigsveginum
-1. Frágangur
+4. Frágangur
    * HTML 5 ritháttur (_Semantics_) 
    * CSS snyrtilega sett upp, hver skipun inndregin í sér línu
 
 #### Birting vefsíðu á internetinu
 
-Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
+5. Skil
+   * Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html. 
 
 * [Nýskráning á Github](Namsefni-7/Github.md)
 * [Uppsetning vefs á Internetið - Github.io](https://github.com/vefgrunnur/VEF1VG05AU/blob/main/Verkefni-7/Namsefni-7/Github.md#uppsetning-vefs%C3%AD%C3%B0u-%C3%A1-notandiusernamegithubio)
@@ -42,13 +43,13 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 <!-- canvas 
 ### 
-
-15% Vefsíðan er svegjanleg og efni síðunnar birtist eðlilega í helstu skjástærðum
+Námsmat
+15% Vefsíðan er sveigjanleg og efni síðunnar birtist eðlilega í helstu skjástærðum
 15% Þegar forsíða er skoðuð á farsímaskjá hverfa myndir, þetta á aðeins við forsíðu og farsímaskjá
-15% Innri valmynd á forsíðu, hlekkir raðast til hliðar á stórum skjá en niður á farsímaskrá
+15% Innri valmynd á forsíðu, hlekkir raðast til hliðar á stórum skjá en niður á farsímaskjá
 15% Ljósmyndir 1 eða fleiri birtast eðlilega í öllum skjástærðum
 10% Texti, umföllun um Gullna hringinn eða annað valfrjálst efni  
-10%  Kort er á vefsíðunni, t.d. í footer &lt;iframe> (_embed google map_)
+10%  Google map kort er á hverri vefsíðu, t.d. í footer &lt;iframe> (_embed google map_)
 10%  HTML ritháttur (_Semantics_) og CSS snyrtilega sett upp, hver skipun inndreginn í sér línu, myndir í sér möppu.
 10%  Birting vefsíðu á internetinu
 
@@ -57,6 +58,7 @@ Setjið verkefni 7 á https://[Github-username].github.io/verkefni-7/index.html.
 
 #### Ýmislegt
 
+* Notið endilega fyrri verkefni til stuðnings, sérstaklega verkefni 5 og 6
 * [How to create linear-gradient text using css](https://www.geeksforgeeks.org/how-to-create-linear-gradient-text-using-html-and-css/)
 * [Blockqoute ""](https://stackoverflow.com/questions/4597699/css-3-adding-quote-symbol-to-beginning-of-blockquote)
 * [Efnisveitur :+1:](https://designresourc.es/)
