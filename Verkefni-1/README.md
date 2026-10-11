@@ -72,7 +72,10 @@ Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðu
 ```CSS
 color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
 ```
-Á **a** tagið bætir þú við huldu-klösum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
+
+- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md#verkefni-12-html-vefsíða-með-css-stílsíðu)
+
+<!--Á **a** tagið bætir þú við huldu-klösum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
 
 ```CSS
 
@@ -82,7 +85,8 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
   a:active {skipun:gildi;}
 
 ```
-<!-- canvas stöff
+-->
+
 ### Námsmat 5% af heildareinkunn
 
 - 1.1 HTML vefsíða
@@ -90,7 +94,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Verkefnaskil
 
-- Setjið verkefnið í **.zip skrá** og skilið í INNU/verkefni/verkefni-1.
+- Setjið verkefnið í **.zip skrá** og skilið í Canvas, verkefni 1.
 
-#### Einkunn verður birt í Innu
--->
+#### Einkunn verður birt í Canvas
+
