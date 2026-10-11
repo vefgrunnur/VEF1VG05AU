@@ -35,20 +35,8 @@ Nemendur geta:
   |_verkefni-1
     |_index.html
 ```
-### Vefsíða skoðuð í vafra (_localhost_)
 
-Það er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
-
-1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
-2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
-   ![Install](Namsefni-1/img/installServer.jpg)
-3. Til að skoða vefsíðu í _localhost_ þá velur þú **Go Live** sem er neðst í hægra horni VSC
-   ![Go Live](Namsefni-1/img/goLive.jpg)
-4. það er líka hægt að "hægri smella" mús á vefsíðu og velja "Open with Live Server"
-   ![Open LS](Namsefni-1/img/liveServer.jpg)
-
-
-### 1.2 HTML
+### HTML
 
 VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
 
@@ -63,7 +51,6 @@ VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VS
 ```
 <H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> <blockqoute> og <span> 
 ```
-- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md)
 
 ### 1.3 CSS
 
@@ -73,7 +60,23 @@ Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðu
 color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
 ```
 
-- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md#verkefni-12-html-vefsíða-með-css-stílsíðu)
+- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md)
+
+### Vefsíða skoðuð í vafra (_localhost_)
+
+Í VSC forritinu er möguleiki á að skoða hvernig vefsíðan birtist í vafra, þagar þú ert með html skrá opna í VSC þá er tákn hnappur hægra megin. Smelltu á hann og vefsíðan birtist í innbyggðum vafra.
+
+![innri vafri](Namsefni-1/img/innrivafri.png)
+
+Það er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
+
+1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
+2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
+   ![Install](Namsefni-1/img/installServer.jpg)
+3. Til að skoða vefsíðu í _localhost_ þá velur þú **Go Live** sem er neðst í hægra horni VSC
+   ![Go Live](Namsefni-1/img/goLive.jpg)
+4. það er líka hægt að "hægri smella" mús á vefsíðu og velja "Open with Live Server"
+   ![Open LS](Namsefni-1/img/liveServer.jpg)
 
 <!--Á **a** tagið bætir þú við huldu-klösum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
 
