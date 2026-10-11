@@ -62,15 +62,17 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 - [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md)
 
-### Vefsíða skoðuð í vafra (_localhost_)
+### Vefsíða skoðuð í VSC
 
 ![innri vafri](Namsefni-1/img/innrivafri.png)
 
-Í VSC forritinu er möguleiki á að skoða hvernig vefsíðan birtist í vafra, þagar þú ert með html skrá opna í VSC þá er tákn hnappur hægra megin. Smelltu á hann og vefsíðan birtist í innbyggðum vafra.
+Í VSC forritinu er möguleiki á að skoða hvernig vefsíðan birtist í vafra. Þegar þú ert með html skrá opna í VSC þá er tákn hnappur hægra megin. Smelltu á hann og vefsíðan birtist í innbyggðum vafra.
 
 ![innri vafri 2](Namsefni-1/img/innrivafri2.png)
 
-Til að skoða síðuna í Edge/Chrome eða Safari vafra þá er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
+### Vefsíða skoðuð í vafra (_localhost_)
+
+Til að skoða vefsíðuna í Edge/Chrome eða Safari vafra þá er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
 
 1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
 2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
