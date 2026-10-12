@@ -69,7 +69,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 Í VSC forritinu er möguleiki á að skoða hvernig vefsíðan birtist í vafra. Þegar þú ert með html skrá opna í VSC þá er tákn hnappur hægra megin. Smelltu á hann og vefsíðan birtist í innbyggðum vafra.
 
 ![innri vafri 2](Namsefni-1/img/innrivafri2.png)
-Ef þú skoðar vefslóðina í innsláttarreitinum efst þá ertru að skoða vefsíðuna á tölvunni þinni **file:///**. 
+Ef þú skoðar vefslóðina í innsláttarreitinum efst þá ertu að skoða vefsíðuna á tölvunni þinni **file:///**.
 
 ### Vefsíða skoðuð í vafra (_localhost_)
 
