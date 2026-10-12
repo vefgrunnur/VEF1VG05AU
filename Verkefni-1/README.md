@@ -73,7 +73,7 @@ Ef þú skoðar vefslóðina í innsláttarreitinum efst þá ertu að skoða ve
 
 ### Vefsíða skoðuð í vafra (_localhost_)
 
-Til að skoða vefsíðuna eins og hún kemur til með að virka á internetinu og þá skoðuð í vafra eins og Edge/Chrome eða Safari, þá er hægt að ná í stuðningsforrit (_Extensions_) í VSC og birta vefsíðuna í sýndarvefþjóni (_localhost_) eins og þau séu á internetinu. 
+Til að skoða vefsíðuna eins og hún kemur til með að virka á internetinu og þá skoðuð í vafra eins og Edge/Chrome eða Safari, þá er hægt að ná í stuðningsforrit (_Extensions_) í VSC og birta vefsíðuna í sýndarvefþjóni (_localhost_). Þannig er hægt að skoða virkni og tengingar vefsíðna eins og þær séu á internetinu. 
 
 1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
 2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
