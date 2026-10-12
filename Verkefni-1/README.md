@@ -44,7 +44,7 @@ VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VS
 
 ![Námsefni-1](Namsefni-1/img/boilerplate.jpg) 
 
-1. Í möppunni [Námsefni-1](Namsefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
+1. Í möppunni [Námsefni-1](Namsefni-1/) eru leiðbeiningar sem þú getur nýtt þér til að búa til vefsíðu og þar er einnig texti til að vinna með [verkefni-1-texti.md](Namsefni-1/verkefni-1-texti.md) í HTML vefsíðunni.
 1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan
 1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
 
