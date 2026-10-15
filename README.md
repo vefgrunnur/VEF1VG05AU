@@ -58,7 +58,7 @@
    - Stöðumat - próf **25%** -  _**Lykilmatsþáttur**_
 8. lokaverkefni 25%. Video, audio og iframe
 
----
+-->
 
 #### Verkefnaskil eru í Canvas og einkunnir birtast þar
 
