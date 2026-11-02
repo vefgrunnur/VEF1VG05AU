@@ -27,7 +27,7 @@ Meðfylgjandi verkefni 3 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
 
 Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3 dálka og 4 dálka uppsetningu. Notaðu css skipunina **display: grid** til að búa til dálkana.
 
-- [Hér er sýnidæmi um grid dálkaskipulag](Namsefni-3/Grid/daemi-31/README.md)
+- [Hér er sýnidæmi um grid dálkaskipulag](Namsefni-3/Grid/daemi-31)
 
 ---
 
