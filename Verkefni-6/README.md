@@ -30,7 +30,7 @@ Nemendur geta:
         <source media="(min-width:1930px)" srcset="stór mynd 3640px breidd">
         <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
         <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
-        <source media="(min-width:768px)" srcset="mynd 960px  breidd">
+        <source media="(min-width:600px)" srcset="mynd 960px  breidd">
         <source media="(min-width:480px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
         <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
@@ -66,7 +66,7 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
 ```
 
 ---
-
+<!-- canvas 
 ### Námsmat 5%
 
 -	Skipting fosíðumyndar eftir skjástærðum
@@ -75,14 +75,14 @@ Myndir sem settar eru á vefsíðu eiga ekki að vera breiðari en ramminn sem m
     - Spjaldtölvur: 48rem - 80rem
     - Fartölvur og tölvuskjáir: 60rem +
 -	Myndir í málsgreinum í réttri stærð og aðlagast dálki
--	Mynd af höfundi með gagnsæjum grunni (transparent)
+-	Mynd með gagnsæjum grunni (transparent)
 -	Allar myndir í sér möppu (images/)
 
 Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni 6**. 
 
 #### Einkunn verður birt í Innu
 
----
+-->
 
 #### Myndvinnsla
 

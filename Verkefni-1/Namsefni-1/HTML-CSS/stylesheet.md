@@ -192,4 +192,3 @@ Hvernig móta ég útlit bókstafa (texta)?
 * [HTML, sjá nánari umfjöllun](README.md)
 * [HTML 5 ritháttur](HTML5_ritháttur.md)
 * [Litir í vefsíðu](litir.md)
-* [Yfirlit yfir CSS skipanir (_CSS Cheat seets_)](https://cheatsheets.shecodes.io/css)

@@ -14,13 +14,14 @@ Skipulag vefsíðu með mörgum dálkum gengur ekki upp í litlum farsímaskjáu
 
 
 Afritaðu innihald _Verkefni 3_ yfir í nýja möppu **Verkefni-4**. 
-
+<!-- 
 |Verkefni 3 | Verkefni 4 | Titill |
 |:---|:---|:---|
 | V.3.1 | (sleppa) | - |
 | V.3.2 (index) | > V.4.1 (index) | Jöfn dálkastærð |
 | V.3.2.2 | > V.4.1.2 | Dálkaskipulag `3fr 1fr 1fr` |
 | V.3.3 (index) | > V.4.2 (index) | Grid Area dálkaskipulag |
+-->
 
 ## 4.1 Jöfn dálkastærð  
 
@@ -134,16 +135,17 @@ Til að nota grid area verðum við að nefna klasa sem eru tengdir ákveðnum t
 - [Sýnidæmi 4.3](Namsefni-4/Dæmi43.md)
 
 ---
-
+canvas 
 #### Námsmat 5%
 
 * **4.1 Dálkar með viðmiðum**
 * **4.2 Grid template columns**
 * **4.3 Grid template area**
-* Efnisyfirlit (nav) á að vera svegjanlegt með _display:flex_
+* **Efnisyfirlit** (nav) á vefsíðum á að vera svegjanlegt með _display:flex_
 
 ### Verkefnaskil
 
 - Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 4 í Innu
 
 #### Einkunn verður birt í Innu
+-->

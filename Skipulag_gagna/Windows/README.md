@@ -55,9 +55,9 @@
 
 Gott skipulag gagna í Windows byggist á þremur atriðum: rétt flokkun í möppur, skýr heiti og regluleg afritun. Með þessu vinnulagi verður auðveldara að finna gögn, minnka líkur á ruglingi og vernda mikilvægar upplýsingar.
 
-## Verkefnaskil í Innu
+## Verkefnaskil í Canvas
 
-#### Öllum verkefnum á að skila í Innu
+#### Öllum verkefnum á að skila í Canvas
 
 Dæmi: Öll gögn í verkefni 1 eru í einni möppu sem er þjöppuð í **.zip skrá**.
 

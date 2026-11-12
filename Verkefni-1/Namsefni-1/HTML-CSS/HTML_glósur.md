@@ -34,28 +34,22 @@ Hugsaðu um HTML tögin eins og **merkimiða á kössum** í flutningum. Ef þú
 
 ### **GitHub (vefgrunnur repository)**
 *   **Vefslóð:** [https://github.com/vefgrunnur/VEF1VG05AU](https://github.com/vefgrunnur/VEF1VG05AU)
-*   **Hlutverk:** Geymsla fyrir námsefni og verkefni í vefþróun. 
-*   **Gagnleg tól:** GitHub býður upp á verkfæri eins og **Copilot** til að skrifa betri kóða og **Codespaces** fyrir þróunarumhverfi í skýinu. Notendur geta einnig skoðað „issues“ og „pull requests“ til að fylgjast með breytingum.
+*   **Hlutverk:** Geymsla fyrir námsefni og verkefni í vefþróun.
+*   
+### w3scools
+* **vefslóð:** [HTML elelments](https://www.w3schools.com/html/html_elements.asp)
+*   **Hlutverk:** Ýtarleg upptalning á HTML tögum með einföldum verkefnadæmum sem eru aðgenglegar byrjendum í HTML ritun.
 
 ### **Vefforritun (Bókin um vefforritun)**
 *   **Vefslóð:** [https://vefforritun.is](https://vefforritun.is)
 *   **Hlutverk:** Íslensk kennslubók eftir Ólaf Sverri Kjartansson sem kennir vefsmíði frá grunni.
-*   **Innihald:** Fer yfir **HTML einingar**, **Box-módelið**, **Flexbox**, **Grid** og hvernig eigi að skipuleggja CSS í stærri verkefnum.
 
 ### **MDN Web Docs (Mozilla Developer Network)**
 *   **Vefslóð:** [https://developer.mozilla.org](https://developer.mozilla.org)
 *   **Hlutverk:** Alþjóðlegur gagnagrunnur og tæknilegar tilvísanir fyrir HTML, CSS og JavaScript.
-*   **Námsefni:** Inniheldur ítarlegar leiðbeiningar um hvernig á að búa til þína fyrstu vefsíðu, birta hana á netinu og nota **Web API** viðmót.
 
 ### **SheCodes**
 *   **Vefslóð:** [https://www.shecodes.io](https://www.shecodes.io)
-*   **Hlutverk:** Býður upp á vinnustofur í forritun fyrir konur og ókeypis byrjendatíma. 
-*   **Gagnleg tól:** Þar má finna minnisblöð (cheatsheets) fyrir **HTML**, **CSS**, **JavaScript** og **VS Code**, ásamt tólum eins og litapallettum og gervigreindinni Athena AI.
-
-***
-
-**Samlíking til útskýringar:**
-Að hafa þessar slóðir er eins og að vera með **vegabréf og kort** að mismunandi bókasöfnum. **SheCodes** er handhæga handbókin, **GitHub** er verkstæðið þar sem hlutirnir eru smíðaðir, **Vefforritun** er kennslubókin á móðurmálinu og **MDN** er aðalsafnið þar sem allar upplýsingar heimsins um vefinn eru geymdar.
 
 ### Bjargir
 

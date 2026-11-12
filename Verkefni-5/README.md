@@ -59,7 +59,7 @@ Búðu til 3 dálka röð með eftirtöldum upplýsingum:
 
 
 ---
-
+<!-- canvas 
 ### Námsmat 5%
 
 * 2% 5.1 Leturval
@@ -71,8 +71,7 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 
 #### Einkunn verður birt í Innu
-
----
+-->
 
 #### Bjargir
 

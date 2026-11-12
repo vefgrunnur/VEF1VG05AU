@@ -1,7 +1,5 @@
 # Verkefni VEFÞ1VG05A
 
-> [VEFÞ105AU Assignment descriptions in english](VEF1VG05AU-English/README.md)
-
 1. verkefni. [Uppsetning vefþróunarsvæðis og HTML - CSS](Verkefni-1/)
 1. verkefni. [Box módelið](Verkefni-2/) 
 1. verkefni. [Skipulag vefsíðu, Grid - Flex](Verkefni-3/) 
@@ -10,6 +8,7 @@
 1. verkefni. [Myndvinnsla](Verkefni-6/)
 1. verkefni. [Innsetning miðla (API)](Verkefni-7/README.md) 
 
+<!-- efni sem er eingögnu uppfært í Canvas
 ### Námsáætlun
 
 ### 2026 vor, spönn 2. 
@@ -59,12 +58,14 @@
    - Stöðumat - próf **25%** -  _**Lykilmatsþáttur**_
 8. lokaverkefni 25%. Video, audio og iframe
 
+-->
+
+#### Verkefnaskil eru í Canvas og einkunnir birtast þar
+
 ---
 
-#### [Undirbúningur og kennslufyrirkomulag](https://github.com/vefgrunnur/VEF1VG05AU/wiki/Undirb%C3%BAningur)
+#### Bjargir
 
-#### [Yfirlit verkefna og þau útskýrð í máli og myndum](https://vefgrunnur.github.io/video/) - NÝTT EFNI!
-
-#### [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
-
-#### [Bjargir: VEFÞ1VG05A/wiki](https://github.com/vefgrunnur/VEF1VG05A/wiki)
+* [Yfirlit verkefna og þau útskýrð í máli og myndum (enskt tal)](https://vefgrunnur.github.io/video/) - Video kynningar
+* [Lesefni: Bókin um vef­forritun](https://bok.vefforritun.is/)
+* [Bjargir: VEFÞ1VG05A/wiki](https://github.com/vefgrunnur/VEF1VG05A/wiki)

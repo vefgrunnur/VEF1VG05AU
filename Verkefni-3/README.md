@@ -27,7 +27,7 @@ Meðfylgjandi verkefni 3 er þjöppuð skrá (.zip) með HTML og CSS síðu. [N�
 
 Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Búðu til 2 dálka, 3 dálka og 4 dálka uppsetningu. Notaðu css skipunina **display: grid** til að búa til dálkana.
 
-- [Hér er sýnidæmi um grid dálkaskipulag](Namsefni-3/Grid/daemi-32/README.md)
+- [Hér er sýnidæmi um grid dálkaskipulag](Namsefni-3/Grid/daemi-31)
 
 ---
 
@@ -39,10 +39,11 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
     <nav> <header> <main> <article> <aside> <footer> 
 ```
 
-- [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/README.md)
+- [Hér er sýnidæmi um skipulag vefsíðu](Namsefni-3/Grid/daemi-32/README.md)
+  
 
 ---
-
+<!-- canvas 
 ### Námsmat 5% af heildareinkunn
 
 - 3.1 Flex raðir og dálkar
@@ -54,3 +55,4 @@ Búðu til HTML vefsíðu og tengdu hana við CSS skrá.  Notaðu skipunina **di
 - Setjið öll gögn verkefnisins í **.zip skrá** og skilið í verkefni 3 í Innu
 
 #### Einkunn verður birt í Innu
+-->

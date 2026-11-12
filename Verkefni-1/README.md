@@ -1,6 +1,6 @@
 # HTML og CSS 
 
-> Öll verkefni áfangans eru unnin á eigin fartölvu. Nemendur þurfa að hafa skilning á hvernig [skipulag og stýrikerfi](../Skipulag_gagna/README.md) virkar í eign tölvu.
+> Öll verkefni áfangans eru unnin á eigin fartölvu. Nemendur þurfa að hafa skilning á hvernig [skipulag og stýrikerfi](../Skipulag_gagna/README.md) virkar í eigin tölvu.
 
 ### Markmið:
 
@@ -35,9 +35,45 @@ Nemendur geta:
   |_verkefni-1
     |_index.html
 ```
+
+### HTML
+
+VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
+
+1. index.html skráin sem þú hefur búið til er alveg auð en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_), það eina sem þú þarft að gera er að slá inn `!` og síðan ýtir þú á `enter` eða `tab` takkann á lyklaborðinu þínu
+
+![Námsefni-1](Namsefni-1/img/boilerplate.jpg) 
+
+1. Í möppunni [Námsefni-1](Namsefni-1/) eru leiðbeiningar sem þú getur nýtt þér til að búa til vefsíðu og þar er einnig texti til að vinna með [verkefni-1-texti.md](Namsefni-1/verkefni-1-texti.md) í HTML vefsíðunni.
+1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan
+1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
+
+```
+<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> <blockqoute> og <span> 
+```
+
+### 1.3 CSS
+
+Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið 1280px og hún á að vera miðjusett í skjáum sem eru stærri en 1280px. Notaðu eftirfarandi CSS skipanir í stílsíðunni:
+
+```CSS
+color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
+```
+
+- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md)
+
+### Vefsíða skoðuð í VSC
+
+![innri vafri](Namsefni-1/img/innrivafri.png)
+
+Í VSC forritinu er möguleiki á að skoða hvernig vefsíðan birtist í vafra. Þegar þú ert með html skrá opna í VSC þá er tákn hnappur hægra megin. Smelltu á hann og vefsíðan birtist í innbyggðum vafra.
+
+![innri vafri 2](Namsefni-1/img/innrivafri2.png)
+Ef þú skoðar vefslóðina í innsláttarreitinum efst þá ertu að skoða vefsíðuna á tölvunni þinni **file:///**.
+
 ### Vefsíða skoðuð í vafra (_localhost_)
 
-Það er hægt að ná í stuðningsforrit (_Extensions_) í VSC og láta VSC birta vefsíðuna í sýndarvefþjóni (_localhost_) sem birtir gögn eins og þau séu á internetinu. 
+Til að skoða vefsíðuna eins og hún kemur til með að virka á internetinu og þá skoðuð í vafra eins og Edge/Chrome eða Safari, þá er hægt að ná í stuðningsforrit (_Extensions_) í VSC og birta vefsíðuna í sýndarvefþjóni (_localhost_). Þannig er hægt að skoða virkni og tengingar vefsíðna eins og þær séu á internetinu. 
 
 1. Fyrst þarf að ná í viðbótina, veldu **Extensions** í tólastikunni vinstra megin og skráðu síðan í leitargluggan **live server**
 2. Veldu **Live Server**, höfundur Ritwick Dey og ýttu síðan á **Install**
@@ -47,32 +83,7 @@ Nemendur geta:
 4. það er líka hægt að "hægri smella" mús á vefsíðu og velja "Open with Live Server"
    ![Open LS](Namsefni-1/img/liveServer.jpg)
 
-
-### 1.2 HTML
-
-VSC styður fjölmörg forritunarmál og HTML skrár eru studdar dyggilega af VSC forritinu
-
-1. index.html skráin sem þú hefur búið til er alveg auð en VSC er tilbúið með flýtileið til að stofna grunnkóða HTML (_boilerplate_), það eina sem þú þarft að gera er að slá inn `!` og síðan ýtir þú á `enter` eða `tab` takkann á lyklaborðinu þínu
-
-![Námsefni-1](Namsefni-1/img/boilerplate.jpg) 
-
-1. Í möppunni [Námsefni-1](Namsefni-1/verkefni-1-texti.md) er texti sem þú getur notað í HTML vefsíðunni.
-1. Settu viðeigandi HTML tög utan um textann til að gera hann læsilegan
-1. Vandaðu frágang og notaðu tab lykilinn á lyklaborðinu til að búa til viðeigandi bil í HTML kóðann.  
-
-```
-<H1> til <H6>, <p>, <em>, <strong>, <sub>, <sup>, <ul>, <ol>, <li>, <pre>, <br>, <hr> <blockqoute> og <span> 
-```
-- [Skoða sýnidæmi](Namsefni-1/Synidaemi/README.md)
-
-### 1.3 CSS
-
-Búðu til stílsíðu (_Cascading Style Sheet_) og tengdu hana við html síðuna. Settu stíla á tögin.  Heildarbreidd vefsíðunnar getur verið 1280px og hún á að vera miðjusett í skjáum sem eru stærri en 1280px. Notaðu eftirfarandi CSS skipanir í stílsíðunni:
-
-```CSS
-color:; text-decoration:; font-family:; font-style:; font-weight:; border:; margin:; padding:;  
-```
-Á **a** tagið bætir þú við huldu-klösum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
+<!--Á **a** tagið bætir þú við huldu-klösum (_pseudo class_) þeir eru skráðir með eftirfarandi hætti:
 
 ```CSS
 
@@ -82,6 +93,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
   a:active {skipun:gildi;}
 
 ```
+-->
 
 ### Námsmat 5% af heildareinkunn
 
@@ -90,7 +102,7 @@ color:; text-decoration:; font-family:; font-style:; font-weight:; border:; marg
 
 ### Verkefnaskil
 
-- Setjið verkefnið í **.zip skrá** og skilið í INNU/verkefni/verkefni-1.
+- Setjið verkefnið í **.zip skrá** og skilið í Canvas, verkefni 1.
 
-#### Einkunn verður birt í Innu
+#### Einkunn verður birt í Canvas
 
