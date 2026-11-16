@@ -43,6 +43,6 @@ Athugið að **aðeins eitt val** er opið í einu.
 
 ![Efnisyfirlit](img/v5.desktop.jpg) 
 
-> Athugið að hafa `max-width: 960px` og `margin:auto` á "container" í stærri skjáum
+> Athugið að hafa klasann _.container_ `max-width: 60rem` (960px) og `margin:auto` á "container" í stærri skjáum
 
 
