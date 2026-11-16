@@ -24,6 +24,21 @@
 
 ![Efnisyfirlit](img/v5.footer.tablet.jpg) 
 
+í `footer` er `details` tagið. þegar smelt er á eitt af þeim, birtast eftirfarandi upplýsingar.
+
+![Efnisyfirlit](img/v5.footer.tablet1.jpg) 
+
+Upplýsingar í _"Description list"_
+
+![Efnisyfirlit](img/v5.footer.tablet2.jpg) 
+
+Athugið að tenglar eru með öðru sniði en í megindálk `main`
+
+![Efnisyfirlit](img/v5.footer.tablet3.jpg) 
+
+Athugið að **aðeins eitt val** er opið í einu.
+
+
 ## Stór skjár - Desktop
 
 ![Efnisyfirlit](img/v5.desktop.jpg) 
