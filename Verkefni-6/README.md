@@ -8,6 +8,15 @@ Nemendur geta:
 * látið myndir af sömu stærð raðast inn eftir skjástærð 
 * notað &lt;picture> tagið til að birta stóra mynd sem vafrinn sækir eftir skjástærð 
 
+### Verklýsing
+
+Í [Námsefni vinnugögn])(Namsefni-6/vinnugogn/orginal-myndir) eru tvær myndir sem þú átt að vinna með í verkefninu og einnig [vefsíða með textanum](Namsefni-6/vinnugogn/index.html)
+
+1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu
+    * ![download](Namsefni-6/Daemi/img/download.jpg)
+2. Myndin **"Annunciation_(Leonardo_c._1472–1476).jpg"** er ekki nema 5.82 megabyte eða 7000px breidd og 5000px á hæð. x ath!
+
+
 ### Litaval
 
 
