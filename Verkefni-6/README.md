@@ -10,8 +10,8 @@ Nemendur geta:
 
 ![Octocat](github-octocat.svg)
 
-#### Meðfylgjandi verkefnalýsingunni eru vinnugögn í .zip skrá
-
+### Ný verklýsing í vinnslu
+<!--
 * [Vefsíða, stílsíða og myndir](Namsefni-6/vinnugogn.zip)  
 
 .zip skrána hleður þú á tölvuna þína. Myndirnar á að setja í vefsíðuna, en fyrst þarf að breyta stærð myndanna í myndvinnsluforriti þannig að þær séu í réttri stærð og fljótar að hlaðast inn á síðuna. 
@@ -36,7 +36,9 @@ Nemendur geta:
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
     ```
-        
+-->
+<!--
+
     * Með &lt;picture> taginu í vefsíðu er hægt að sortera myndir eftir breidd skjásins
     * [Forsíðumynd](myndir/mynd1.jpg) (_ath! nýjar myndir fylgja með sem hægt er að nota sem forsíðumynd_)
 1. **Mynd með gagnsæjum (_transparent_) bakgrunni**
