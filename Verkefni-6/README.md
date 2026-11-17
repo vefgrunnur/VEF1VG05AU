@@ -8,7 +8,7 @@ Nemendur geta:
 * látið myndir af sömu stærð raðast inn eftir skjástærð 
 * notað &lt;picture> tagið til að birta stóra mynd sem vafrinn sækir eftir skjástærð 
 
-![Octocat](github-octocat.svg)
+
 
 ### Ný verklýsing í vinnslu
 <!--
@@ -86,6 +86,8 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 -->
 
+![Octocat](github-octocat.svg) _Gangni þér vel_
+
 #### Myndvinnsla
 
 * [Picture tagið](https://www.w3schools.com/tags/tag_picture.asp)
@@ -96,7 +98,4 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 * [Gimp](https://www.gimp.org/) 
   * Mac, Linux og PC myndvinnsluforrit
 * [Myndasafn Pxhere.com](https://pxhere.com/)
-
-#### "Dummy" myndir
-
 * [Lorem Flickr](https://loremflickr.com/)
