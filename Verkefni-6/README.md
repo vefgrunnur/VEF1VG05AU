@@ -8,9 +8,9 @@ Nemendur geta:
 * látið myndir af sömu stærð raðast inn eftir skjástærð 
 * notað &lt;picture> tagið til að birta stóra mynd sem vafrinn sækir eftir skjástærð 
 
+### Litaval
 
 
-### Ný verklýsing í vinnslu
 <!--
 * [Vefsíða, stílsíða og myndir](Namsefni-6/vinnugogn.zip)  
 
