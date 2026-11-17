@@ -12,10 +12,10 @@ Nemendur geta:
 
 Í [Námsefni vinnugögn](Namsefni-6/vinnugogn/orginal-myndir) eru tvær myndir sem þú átt að vinna með í verkefninu og einnig [vefsíða með textanum](Namsefni-6/vinnugogn/index.html)
 
-1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu
+1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu með því að opna myndirnar og vefsíðuna í Github og smella á niðurhal hnappinn.
     * ![download](Daemi/img/download.jpg)
 2. Myndin **"Annunciation_(Leonardo_c._1472–1476).jpg"** er ekki nema **5.82** megabyte eða **7776px** breidd og **3569px** á hæð.<br>
-Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka stærð hennar svo hún hláðist inn á skikkanlegum tíma. 
+Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka stærð hennar svo hún hlaðist inn á tölvuskjáinn á skikkanlegum tíma. Farsímar og spjaldtölvur þurfa ekki nema um **10%** af þessu gagnamagni til að birta myndina í þokkalegum gæðum.
 
 
 ### Litaval
