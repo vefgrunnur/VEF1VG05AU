@@ -22,7 +22,7 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
     * Vafri getur velur rétta stærð miðað breidd skjásins þegar myndir er settar í `<picture>` tagið. 
     * Hér sjáum við dæmi um hvernig `source media` velur mynd með því að athuga hvaða skjábreidd er í vafranum, `scset=`"vísar á rétta mynd". Til að tryggja að gamlir vafrar getir birt myndina er seinast notað `img` tagið. **Athugið** að það má ekki sleppa img því þá virkar ekki `picture` valið.
     
-    ```HTML
+```HTML
     <picture>
         <source media="(min-width:1920px)" srcset="stór mynd 3640px breidd">
         <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
@@ -32,10 +32,11 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
         <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
-    
-    ```
+
+```
+
 3. Skoðið [verkefnadæmið](Daemi/README.md) hér.  Þar er sýnt hvernig myndin er skorin í mismunandi hlutföll og minnsta myndin er aðeins hluti myndarinnar.
-    * Í hliðardálki er síðan búið að taka 3 hluta úr stóru myndinni í stærðinn 400px x 300px
+    * Í hliðardálki er síðan búið að taka 3 hluta úr stóru myndinni í stærðina **400px x 300px**
     * En mynd er af ? teningi sem búið er að maska út og síðan vistuð í sömu stærð og hinar hliðarmyndirnar
     * Myndirnar eru settar í `figure` tagið og myndatextinn í `figcaption` tagið
 
