@@ -15,11 +15,32 @@ Nemendur geta:
 1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu með því að opna myndirnar og vefsíðuna í Github og smella á niðurhal hnappinn.
     * ![download](Daemi/img/download.jpg)
 2. Myndin **"Annunciation_(Leonardo_c._1472–1476).jpg"** er ekki nema **5.82** megabyte eða **7776px** breidd og **3569px** á hæð.<br>
-Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka stærð hennar svo hún hlaðist inn á tölvuskjáinn á skikkanlegum tíma. Farsímar og spjaldtölvur þurfa ekki nema um **10%** af þessu gagnamagni til að birta myndina í þokkalegum gæðum.
-
+Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka stærð hennar svo hún hlaðist inn á tölvuskjáinn á skikkanlegum tíma. Farsímar og spjaldtölvur þurfa ekki nema um **10%** af þessu gagnamagni til að birta myndina í þokkalegum gæðum. Til að vinna myndina í rétta stærð miðað við skjástærð þá opnum við myndina í myndvinnsluforriti og gerum nokkur afrit sem eru í hámarksgæðum miðað við mismunandi skjástærðir
+    * **Stór forsíðumynd**
+    * Myndin er vistuð í sex stærðum í myndvinnluforritinu Photopea (_Það má nota önnur forrit_)
+    * Myndirnar eru geymdar í sér
+    * Vafri getur velur rétta stærð miðað breidd skjásins þegar myndir er settar í `<picture>` tagið. 
+    * Hér sjáum við dæmi um hvernig `source media` velur mynd með því að athuga hvaða skjábreidd er í vafranum, `scset=`"vísar á rétta mynd". Til að tryggja að gamlir vafrar getir birt myndina er seinast notað `img` tagið. **Athugið** að það má ekki sleppa img því þá virkar ekki `picture` valið.
+    
+    ```HTML
+    <picture>
+        <source media="(min-width:1920px)" srcset="stór mynd 3640px breidd">
+        <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
+        <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
+        <source media="(min-width:600px)" srcset="mynd 960px  breidd">
+        <source media="(min-width:480px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
+        <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
+        <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
+    </picture>
+3. Skoðið [verkefnadæmið](Daemi/README.md) hér.  Þar er sýnt hvernig myndin er skorin í mismunandi hlutföll og minnsta myndin er aðeins hluti myndarinnar.
+    * Í hliðardálki er síðan búið að taka 3 hluta úr stóru myndinni í stærðinn 400px x 300px
+    * En mynd er af ? teningi sem búið er að maska út og síðan vistuð í sömu stærð og hinar hliðarmyndirnar
+    * Myndirnar eru settar í `figure` tagið og myndatextinn í `figcaption` tagið
 
 ### Litaval
 
+Eins og sýnd er í verkefnadæminu þá eru litir í vefsíðunni í samræmi við forsíðumyndina. Til að finna viðeigandi litaspjald þá er hægt að nota app sem Adobe býður uppá
+* ![Adobe litaveljari](Daemi/img/colorAdobe.jpg)
 
 <!--
 * [Vefsíða, stílsíða og myndir](Namsefni-6/vinnugogn.zip)  
@@ -31,20 +52,7 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
 - Mynd af Freysteini er með bakgrunn sem þarf að taka út og bakgrunnurinn gerður gegnsær (_transparent_). 
 - Síðan eru 6 myndir sem eiga allar að vera í sömu stærð og þær eiga síðan að birtast eftir skjástærð þrjár í röð, síðan tvær í röð og í einum dálki í farsímaskjáum. 
 
-1. **Stór forsíðumynd**
-    * Myndin er vistuð í fimm stærðum og vafrinn velur rétta stærð miðað breidd skjásins. 
-    * Viðmið: <br>
-
-    ```HTML
-    <picture>
-        <source media="(min-width:1930px)" srcset="stór mynd 3640px breidd">
-        <source media="(min-width:1280px)" srcset="mynd 1920px breidd">
-        <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
-        <source media="(min-width:600px)" srcset="mynd 960px  breidd">
-        <source media="(min-width:480px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
-<!--        <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
-<!--        <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
-    </picture>
+1. 
     ```
 -->
 <!--
@@ -96,7 +104,7 @@ Skilaðu öllum vinnugögnum sem tilheyra verkefninu í **Innu/VEFÞ1VG/Verkefni
 
 -->
 
-![Octocat](github-octocat.svg) _Gangni þér vel_
+![Octocat](github-octocat.svg) _Gangi þér vel_
 
 #### Myndvinnsla
 
