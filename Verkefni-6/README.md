@@ -14,7 +14,8 @@ Nemendur geta:
 
 1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu
     * ![download](Daemi/img/download.jpg)
-2. Myndin **"Annunciation_(Leonardo_c._1472–1476).jpg"** er ekki nema 5.82 megabyte eða 7000px breidd og 5000px á hæð. x ath!
+2. Myndin **"Annunciation_(Leonardo_c._1472–1476).jpg"** er ekki nema **5.82** megabyte eða **7776px** breidd og **3569px** á hæð.<br>
+Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka stærð hennar svo hún hláðist inn á skikkanlegum tíma. 
 
 
 ### Litaval
