@@ -32,6 +32,8 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
         <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
         <img src="1280px breidd" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
     </picture>
+    
+    ```
 3. Skoðið [verkefnadæmið](Daemi/README.md) hér.  Þar er sýnt hvernig myndin er skorin í mismunandi hlutföll og minnsta myndin er aðeins hluti myndarinnar.
     * Í hliðardálki er síðan búið að taka 3 hluta úr stóru myndinni í stærðinn 400px x 300px
     * En mynd er af ? teningi sem búið er að maska út og síðan vistuð í sömu stærð og hinar hliðarmyndirnar
