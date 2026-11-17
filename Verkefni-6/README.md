@@ -1,4 +1,4 @@
-# Myndvinnsla og innsetning mynda í vefsíðu
+# Í endurvinnslu -- Myndvinnsla og innsetning mynda í vefsíðu
 
 ### Markmið
 
@@ -13,7 +13,7 @@ Nemendur geta:
 Í [Námsefni vinnugögn])(Namsefni-6/vinnugogn/orginal-myndir) eru tvær myndir sem þú átt að vinna með í verkefninu og einnig [vefsíða með textanum](Namsefni-6/vinnugogn/index.html)
 
 1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu
-    * ![download](Namsefni-6/Daemi/img/download.jpg)
+    * ![download](Daemi/img/download.jpg)
 2. Myndin **"Annunciation_(Leonardo_c._1472–1476).jpg"** er ekki nema 5.82 megabyte eða 7000px breidd og 5000px á hæð. x ath!
 
 
