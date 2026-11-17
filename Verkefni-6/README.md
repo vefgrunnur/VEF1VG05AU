@@ -18,8 +18,7 @@ Nemendur geta:
 Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka stærð hennar svo hún hlaðist inn á tölvuskjáinn á skikkanlegum tíma. Farsímar og spjaldtölvur þurfa ekki nema um **10%** af þessu gagnamagni til að birta myndina í þokkalegum gæðum. Til að vinna myndina í rétta stærð miðað við skjástærð þá opnum við myndina í myndvinnsluforriti og gerum nokkur afrit sem eru í hámarksgæðum miðað við mismunandi skjástærðir
     * **Stór forsíðumynd**
     * Myndin er vistuð í sex stærðum í myndvinnluforritinu Photopea (_Það má nota önnur forrit_)
-    * Myndirnar eru geymdar í sér
-    * Vafri getur velur rétta stærð miðað breidd skjásins þegar myndir er settar í `<picture>` tagið. 
+    * Vafri getur valið rétta stærð miðað breidd skjásins þegar myndir er settar í `<picture>` tagið. 
     * Hér sjáum við dæmi um hvernig `source media` velur mynd með því að athuga hvaða skjábreidd er í vafranum, `scset=`"vísar á rétta mynd". Til að tryggja að gamlir vafrar getir birt myndina er seinast notað `img` tagið. **Athugið** að það má ekki sleppa img því þá virkar ekki `picture` valið.
     
 ```HTML
