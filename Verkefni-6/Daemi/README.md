@@ -19,6 +19,7 @@
 ## Stór skjár - Desktop
 
 ![Efnisyfirlit](img/v6.desktop.jpg) 
+![Efnisyfirlit](img/v6.desktop-2.jpg)
 
 > Athugið að hafa klasann _.container_ `max-width: 60rem` (960px) og `margin:auto` í stærri skjáum
 
