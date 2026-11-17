@@ -10,7 +10,7 @@ Nemendur geta:
 
 ### Verklýsing
 
-Í [Námsefni vinnugögn])(Namsefni-6/vinnugogn/orginal-myndir) eru tvær myndir sem þú átt að vinna með í verkefninu og einnig [vefsíða með textanum](Namsefni-6/vinnugogn/index.html)
+Í [Námsefni vinnugögn](Namsefni-6/vinnugogn/orginal-myndir) eru tvær myndir sem þú átt að vinna með í verkefninu og einnig [vefsíða með textanum](Namsefni-6/vinnugogn/index.html)
 
 1. Vistaðu myndirnar og vefsíðuna inn á þína tölvu
     * ![download](Daemi/img/download.jpg)
