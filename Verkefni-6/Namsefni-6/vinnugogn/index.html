@@ -18,12 +18,20 @@
         <a href="../verkefni-3/">Verkefni 3.</a>
         <a href="../verkefni-4/">Verkefni 4.</a>
         <a href="../verkefni-5/">Verkefni 5.</a>
-        <a href="../verkefni-6/">Verkefni 6.</a>
+        <a href="../verkefni-6-final/">Verkefni 6.</a>
 		<a href="../verkefni-7/">Verkefni 7.</a>
     </nav>
     <!--.container heldur utanum heildarbreidd efnis. max-width:60rem, margin:auto.-->
     <header>
-		<!--hér kemur stór mynd í <picture> taginu-->
+		<picture>
+			<source media="(min-width:1920px)" srcset="img/Annunciation3600.webp">
+			<source media="(min-width:1280px)" srcset="img/Annunciation1920.webp">
+			<source media="(min-width:960px)" srcset="img/Annunciation1280.webp"> 
+			<source media="(min-width:600px)" srcset="img/Annunciation960.webp">
+			<source media="(min-width:480px)" srcset="img/Annunciation600.webp"> <!--mobile landscape-->
+			<source media="(min-width:0px)" srcset="img/Annunciation500.webp"> <!--mobile portrait-->
+			<img src="img/Annunciation1280.webp" alt="img tagið verður að vera með til vara (fallback)" style="width:auto;">
+		</picture>
         <h1>Boðun Maríu</h1>
     </header>
     <div class="main-bg"> 
@@ -31,7 +39,21 @@
 			<section class="sticky-menu aside"><!--verður að vera "block element" til að vera "sticky"-->
 			<!--setjum display flex og grid-area (name) á aside-menu og staðsetjum efst á síðu í farsímaskjáum-->
 				<aside class="aside-menu col-2">
-					<!--hér koma 4 myndir, sjá sýnidæmi í verklýsingu-->
+					<figure>
+						<img src="img/Nazaret.webp" alt="Borgin í landinu helga">
+						<figcaption>Borgin í landinu helga</figcaption>
+					</figure>
+					<figure>
+						<img src="img/Gabriel.webp" alt="Gabríel erkiengill">
+						<figcaption>Gabríel erkiengill</figcaption>
+					</figure>
+					<figure><img src="img/lesskilningur.webp" alt="Lesskilningur Maríu">
+						<figcaption>Lesskilningur Maríu</figcaption>
+					</figure>
+					<figure>
+						<img src="img/De_divina_proportione.webp" alt="Hin himnesku hlutföll">
+						<figcaption>Hin himnesku hlutföll</figcaption>
+					</figure>
 				</aside>
 			</section>
 			<section class="article">
@@ -53,6 +75,7 @@
 					</p>
 					<p><strong>Leonardo da Vinci</strong> (<a href="https://is.wikipedia.org/wiki/15._apr%C3%ADl">15. apríl</a> <a href="https://is.wikipedia.org/wiki/1452">1452</a> – <a href="https://is.wikipedia.org/wiki/2._ma%C3%AD">2. maí</a> <a href="https://is.wikipedia.org/wiki/1519">1519</a>) var <a href="https://is.wikipedia.org/wiki/%C3%8Dtal%C3%ADa">ítalskur</a> <a href="https://is.wikipedia.org/wiki/Endurreisnin">endurreisnarmaður</a>; <a href="https://is.wikipedia.org/wiki/Listm%C3%A1lari">málari</a>, <a href="https://is.wikipedia.org/wiki/H%C3%B6ggmyndalist">myndhöggvari</a>, <a href="https://is.wikipedia.org/wiki/Arkitekt">arkitekt</a>, <a href="https://is.wikipedia.org/wiki/V%C3%ADsindama%C3%B0ur">vísindamaður</a>, <a href="https://is.wikipedia.org/wiki/St%C3%A6r%C3%B0fr%C3%A6%C3%B0ingur">stærðfræðingur</a>,<sup><a href="https://is.wikipedia.org/wiki/Leonardo_da_Vinci#cite_note-1">[1]</a></sup> <a href="https://is.wikipedia.org/wiki/Verkfr%C3%A6%C3%B0i">verkfræðingur</a> og <a href="https://is.wikipedia.org/wiki/Uppfinningama%C3%B0ur">uppfinningamaður</a> sem kom inn á ýmis svið, svo sem <a href="https://is.wikipedia.org/wiki/L%C3%ADff%C3%A6rafr%C3%A6%C3%B0i">líffærafræði</a>, <a href="https://is.wikipedia.org/wiki/T%C3%B3nlist">tónlist</a>, <a href="https://is.wikipedia.org/wiki/N%C3%A1tt%C3%BArufr%C3%A6%C3%B0i">náttúrufræði</a>, <a href="https://is.wikipedia.org/wiki/R%C3%BAmfr%C3%A6%C3%B0i">rúmfræði</a>, <a href="https://is.wikipedia.org/wiki/Kortager%C3%B0">kortagerð</a> og <a href="https://is.wikipedia.org/wiki/Grasafr%C3%A6%C3%B0i">grasafræði</a>. Hann var lengi fyrst og fremst þekktur sem <a href="https://is.wikipedia.org/wiki/Myndlist">myndlistarmaður</a>, en hefur síðar orðið frægur fyrir umfangsmiklar og ítarlegar stílabækur þar sem hann teiknaði og skrifaði um ýmis efni, eins og líffærafræði, <a href="https://is.wikipedia.org/wiki/Stj%C3%B6rnufr%C3%A6%C3%B0i">stjörnufræði</a>, grasafræði, kortagerð, <a href="https://is.wikipedia.org/wiki/M%C3%A1laralist">málun</a> og <a href="https://is.wikipedia.org/wiki/Steingervingafr%C3%A6%C3%B0i">steingervingafræði</a>.<sup><a href="https://is.wikipedia.org/wiki/Leonardo_da_Vinci#cite_note-2">[2]</a></sup> Vegna snilligáfu sinnar hefur Leonardo verið nefndur sem dæmi um hinn fullkomna <a href="https://is.wikipedia.org/wiki/H%C3%BAmanismi">húmanista</a> <a href="https://is.wikipedia.org/wiki/Endurreisnin">endurreisnartímans</a>.
 					</p>
+					<p>Höfundur: <strong>Nanna Kristjánsdóttir</strong> <em>sagnfræðingur</em></p>
 					<p><a href="#top">Efst á síðu</a></p>
 				</article>
 			</section>
@@ -60,7 +83,7 @@
     </div> <!--bakgrunnur endar hér-->
     <footer class="container col-3">
 		<details name="listi">
-			<summary>Um mig ♥ <br>í &lt;details> </summary>
+			<summary>Um mig ♥ </summary>
 			<section><!--Description list, nafn tölvupóstur, áfangi og skóli-->
 				<dl>
 					<dt>Nafn:</dt>
@@ -101,7 +124,7 @@
     </footer>
     <p class="center">
 		Hönnun: <!-- verkefni 7. Hér kemur tengill á vef sem þú hýsir á github--> 
-		<b><a href="https://gjg.github.io">GJG design.</a></b> 
+		<b><a href="https://[username].github.io">Þitt nafn/design.</a></b> 
 		&copy; 2026. Hýsing: <a href="https://github.com/">Github.com</a>  
 	</p>
   </body>
