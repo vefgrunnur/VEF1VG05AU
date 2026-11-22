@@ -23,7 +23,7 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
     
 ```HTML
     <picture>
-        <source media="(min-width:1921px)" srcset="stór mynd 3640px breidd">
+        <source media="(min-width:1921px)" srcset="stór mynd 3840px breidd">
         <source media="(min-width:1281px)" srcset="mynd 1920px breidd">
         <source media="(min-width:961px)" srcset="mynd 1280px breidd"> 
         <source media="(min-width:601px)" srcset="mynd 960px  breidd">
