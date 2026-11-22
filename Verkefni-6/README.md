@@ -25,7 +25,7 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
     <picture>
         <source media="(min-width:1921px)" srcset="stór mynd 3640px breidd">
         <source media="(min-width:1281px)" srcset="mynd 1920px breidd">
-        <source media="(min-width:960px)" srcset="mynd 1280px breidd"> 
+        <source media="(min-width:961px)" srcset="mynd 1280px breidd"> 
         <source media="(min-width:601px)" srcset="mynd 960px  breidd">
         <source media="(min-width:481px)" srcset="mynd 600px breidd"> <!--mobile landscape-->
         <source media="(min-width:0px)" srcset="mynd 480px breidd"> <!--mobile portrait-->
