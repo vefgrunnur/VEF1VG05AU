@@ -1,4 +1,4 @@
-# Í endurvinnslu -- Myndvinnsla og innsetning mynda í vefsíðu
+# Myndvinnsla og innsetning mynda í vefsíðu
 
 ### Markmið
 
