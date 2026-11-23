@@ -41,7 +41,7 @@ Til að hægt sé að nota þessa mynd á vefsíðu þá verðum við að minnka
 
 ### Litaval
 
-Eins og sýnd er í verkefnadæminu þá eru litir í vefsíðunni í samræmi við forsíðumyndina. Til að finna viðeigandi litaspjald þá er hægt að nota app sem Adobe býður uppá
+Eins og sýnd er í verkefnadæminu þá eru litir í vefsíðunni í samræmi við forsíðumyndina. Til að finna viðeigandi litaspjald þá er hægt að nota app sem [Adobe býður uppá](https://color.adobe.com/)
 * ![Adobe litaveljari](Daemi/img/colorAdobe.jpg)
 
 <!--
